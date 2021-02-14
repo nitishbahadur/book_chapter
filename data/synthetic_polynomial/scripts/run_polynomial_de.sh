@@ -1,0 +1,1 @@
+sbatch -o ../data/synthetic_polynomial/logs/polynomial_de_2e-4e-4-16-10.log polynomial_de.py 2e-4 16 41 100 0.3 0.3 0.3 1.0
