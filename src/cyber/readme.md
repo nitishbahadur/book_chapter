@@ -1,5 +1,7 @@
-1.  Train model(s)
-    - Execute command below with parameters updated as needed
+# General Process Overview
+
+##  Train model(s)
+    * Execute command below with parameters updated as needed
 
     python cyber_approach_2.py \
         --tp 1min \
@@ -14,29 +16,29 @@
         --output_dir ./output/20210206_ae_l1/ae_0.0001 \
         --plot_title 'CICIDS2017 Monday'
 
-2.  Determine \lambda to use
-    a.  Edit paths to data in plot_ae_loss.py if needed
-    b.  Execute python plot_ae_loss.py
-    c.  Choose \lambda which provides lowest MSE
+##  Determine \lambda to use
+    *  Edit paths to data in plot_ae_loss.py if needed
+    *  Execute python plot_ae_loss.py
+    *  Choose \lambda which provides lowest MSE
 
-3.  Generate AE only scree plots
-    a.  Edit generate_ae_scree_data if needed
-    b.  Execute generate_ae_scree_data
-    c.  Edit create_scree_plot.py if needed
-    c.  Execute python create_scree_plot.py
+##  Generate AE only scree plots
+    *  Edit generate_ae_scree_data if needed
+    *  Execute generate_ae_scree_data
+    *  Edit create_scree_plot.py if needed
+    *  Execute python create_scree_plot.py
 
-4.  Determine SVP Threshold
-    a.  Edit plot_ae_threshold to reference model chosen in (2)
-    b.  Execute plot_ae_threshold
-    c.  Choose SVP based on output from command above and comparison to scree plot
+##  Determine SVP Threshold
+    *  Edit plot_ae_threshold to reference model chosen in (2)
+    *  Execute plot_ae_threshold
+    *  Choose SVP based on output from command above and comparison to scree plot
 
-5.  Generate PCA results
-    a.  Execute generate_pca_results
+##  Generate PCA results
+    *  Execute generate_pca_results
 
-6.  Generate Combined results
-    a.  Edit create_scree_plot.py if needed (to include PCA)
-    b.  Execute python create_scree_plot.py
-    c.  Edit generate_ae_results if needed
-    d.  Execute generate_ae_results
-    e.  Edit plot_dimensions_over_time.py if needed
-    f.  Execute python plot_dimensions_over_time.py
+##  Generate Combined results
+    *  Edit create_scree_plot.py if needed (to include PCA)
+    *  Execute python create_scree_plot.py
+    *  Edit generate_ae_results if needed
+    *  Execute generate_ae_results
+    *  Edit plot_dimensions_over_time.py if needed
+    *  Execute python plot_dimensions_over_time.py
