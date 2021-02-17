@@ -1,0 +1,72 @@
+###
+# Generate our trained PCA model
+###
+trained_model_dir=./output/20210206_pca_de
+results_dir=./output/20210206_results
+svp_threshold=0.006
+time_periods="1min 5min 10min"
+
+python pca_de.py \
+    --tp 1min \
+    --dataset ./datasets/cicids2017/monday_benign_traffic/monday_benign_traffic.pkl \
+    --dstype test \
+    --train \
+    --output_dir ${trained_model_dir} \
+    --plot_title 'CICIDS2017 Monday - PCA Dimension Estimation' \
+    --ylimit 75
+
+###
+# Now estimate dimensions using trained model
+###
+
+for tp in ${time_periods}; do
+    python pca_de.py \
+        --tp ${tp} \
+        --dataset ./datasets/cicids2017/monday_benign_traffic/monday_benign_traffic.pkl \
+        --dstype test \
+        --test \
+        --output_dir ${results_dir}/monday \
+        --model_path ${trained_model_dir}/pca.pkl \
+        --plot_title 'CICIDS2017 Monday - PCA Dimensionality Over Time' \
+        --svp_threshold ${svp_threshold} \
+        --ylimit 75
+done
+
+for tp in ${time_periods}; do
+    python pca_de.py \
+        --tp ${tp} \
+        --dataset ./datasets/cicids2017/wednesday_ddos_attacks/wednesday_ddos_attacks.pkl \
+        --dstype test \
+        --test \
+        --output_dir ${results_dir}/wednesday \
+        --model_path ${trained_model_dir}/pca.pkl \
+        --plot_title 'CICIDS2017 Wednesday - PCA Dimensionality Over Time' \
+        --svp_threshold ${svp_threshold} \
+        --ylimit 75
+done
+
+for tp in ${time_periods}; do
+    python pca_de.py \
+        --tp ${tp} \
+        --dataset ./datasets/cicids2017/friday_afternoon_ddos/friday_afternoon_ddos.pkl \
+        --dstype test \
+        --test \
+        --output_dir ${results_dir}/friday \
+        --model_path ${trained_model_dir}/pca.pkl \
+        --plot_title 'CICIDS2017 Friday - PCA Dimensionality Over Time' \
+        --svp_threshold ${svp_threshold} \
+        --ylimit 75
+done
+
+###
+# MSE for varying values of k
+###
+python pca_de.py \
+    --tp 1min \
+    --dataset ./datasets/cicids2017/monday_benign_traffic/monday_benign_traffic.pkl \
+    --dstype test \
+    --output_dir ${results_dir}/monday \
+    --plot_title 'CICIDS2017 Monday - MSE for varying values of k' \
+    --svp_threshold ${svp_threshold} \
+    --ylimit 75 \
+    --k 74

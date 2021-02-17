@@ -1,0 +1,14 @@
+base_model_paths="./output/20210206_ae_l1/ae_0.01 ./output/20210206_ae_l1/ae_0.001 ./output/20210206_ae_l1/ae_0.0002 ./output/20210206_ae_l1/ae_0.0001 ./output/20210206_ae_l1/ae_0.0015"
+model_prefix="4000_"
+svp_threshold=0.006
+
+for model_dir in ${base_model_paths}; do
+    python cyber_test_saved_model.py \
+        --dataset ./datasets/cicids2017/monday_benign_traffic/monday_benign_traffic.pkl \
+        --output_dir ${model_dir} \
+        --base_model_path ${model_dir}/${model_prefix} \
+        --tp 1min \
+        --plot_title 'CICIDS2017 Monday - Scree Plot' \
+        --svp_threshold ${svp_threshold} \
+        --scree
+done
