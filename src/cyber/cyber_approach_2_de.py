@@ -95,9 +95,6 @@ def get_output_model_path(output_file_type, encoding_dim, l1_reg):
     return filepath
 
 def save_model(encoding_dim, l1_reg, autoencoder, encoder, decoder):
-    # autoencoder_model_path = r"../data/synthetic/output/autoencoder_l1_reg_{}_{}.h5".format(encoding_dim, l1_reg)
-    # encoder_model_path = r"../data/synthetic/output/encoder_l1_reg_{}_{}.h5".format(encoding_dim, l1_reg)
-    # decoder_model_path = r"../data/synthetic/output/decoder_l1_reg_{}_{}.h5".format(encoding_dim, l1_reg)
     autoencoder_model_path = get_output_model_path("autoencoder", encoding_dim, l1_reg)
     encoder_model_path = get_output_model_path("encoder", encoding_dim, l1_reg)
     decoder_model_path = get_output_model_path("decoder", encoding_dim, l1_reg)
@@ -112,7 +109,6 @@ def save_model(encoding_dim, l1_reg, autoencoder, encoder, decoder):
     print("decoder saved!!!")
 
 def save_history(encoding_dim, l1_reg, history):
-    # history_filename = r"../data/synthetic/output/history_l1_{}_{}".format(encoding_dim, l1_reg)
     history_filename = get_output_model_path("history", encoding_dim, l1_reg)
     with open(history_filename, 'w') as f:
         json.dump(history.history, f)
@@ -130,19 +126,11 @@ def save_intermediate_training(x, encoder, decoder, epoch):
 
 
 def save_output(x, autoencoder, encoder, decoder, layer1_dropout, layer2_dropout, layer3_dropout, input_type):
-    #print("{} Original : ".format(input_type))
-    #print(x)
-
-    #print("{} Predicted : ".format(input_type))
     x_predicted = autoencoder.predict(x)
-    #print(x_predicted)
 
-    #print("{} Original->Encoded->Decoded(Reconsturcted) : ".format(input_type))
     x_encoded = encoder.predict(x)
     x_reconstructed = decoder.predict(x_encoded)
-    #print(x_reconstructed)
 
-    #print("{} Encoded : ".format(input_type))
     print(x_encoded)    
 
     x_filename = r"{}/x_{}_{}_{}_{}_{}_{}"
