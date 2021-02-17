@@ -1,5 +1,10 @@
 # General Process Overview
 
+## Download Data (if needed)
+    * Download data from https://github.com/nitishbahadur/book_chapter/releases/tag/v3.0
+    * Place the monday_benign_traffic.pkl file in ../../data/cyber/cicids2017/monday_benign_traffic
+    * Place the friday_afternoon_ddos.pkl file in ../../data/cyber/cicids2017/friday_afternoon_ddos
+
 ##  Train model(s)
     * Execute command below with parameters updated as needed
 
