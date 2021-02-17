@@ -12,7 +12,7 @@
         --layer1_dropout 0.01 \
         --layer2_dropout 0.01 \
         --layer3_dropout 0.01 \
-        --dataset ./datasets/cicids2017/monday_benign_traffic/monday_benign_traffic.pkl \
+        --dataset ../../data/cyber/cicids2017/monday_benign_traffic/monday_benign_traffic.pkl \
         --output_dir ./output/20210206_ae_l1/ae_0.0001 \
         --plot_title 'CICIDS2017 Monday'
 

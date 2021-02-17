@@ -5,7 +5,7 @@ base_model_path=./output/20210206_ae_l1/ae_0.0001/4000_
 
 output_dir=./output/20210206_results
 python cyber_test_saved_model.py \
-    --dataset ./datasets/cicids2017/monday_benign_traffic/monday_benign_traffic.pkl \
+    --dataset ../../data/cyber/cicids2017/monday_benign_traffic/monday_benign_traffic.pkl \
     --output_dir ${output_dir} \
     --base_model_path ${base_model_path} \
     --plot_title 'CICIDS2017 Monday - Threshold Metrics' \
