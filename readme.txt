@@ -1,5 +1,7 @@
 The folder contains data as well as code to estimate dimension.  Python source code is provided to estimate dimension.  Corresponding dataset is provided in data folder.
 
+The list of packages and version in our environment is provided in requirements.txt.
+
 src folder:
 -----------
 There are 5 sub-folders.
