@@ -1,0 +1,3535 @@
+Column 0 is produced by
+	 Applying np.exp2 to Column 747
+	 Applying np.reciprocal to Column 761
+	 Finally, we add the 2 columns to produce Column 0
+Column 1 is produced by
+	 Applying np.exp to Column 478
+	 Applying np.reciprocal to Column 579
+	 Finally, we add the 2 columns to produce Column 1
+Column 2 is produced by
+	 Applying np.exp to Column 635
+	 Applying np.reciprocal to Column 350
+	 Finally, we add the 2 columns to produce Column 2
+Column 3 is produced by
+	 Applying np.reciprocal to Column 596
+	 Applying np.exp2 to Column 702
+	 Finally, we add the 2 columns to produce Column 3
+Column 4 is produced by
+	 Applying np.exp to Column 549
+	 Applying np.reciprocal to Column 565
+	 Finally, we add the 2 columns to produce Column 4
+Column 5 is produced by
+	 Applying np.power to Column 196
+	 The exponent for power function is 26.018065681689247
+	 Applying np.reciprocal to Column 365
+	 Finally, we add the 2 columns to produce Column 5
+Column 6 is produced by
+	 Applying np.exp to Column 228
+	 Applying np.exp2 to Column 730
+	 Finally, we add the 2 columns to produce Column 6
+Column 7 is produced by
+	 Applying np.reciprocal to Column 178
+	 Applying np.exp to Column 391
+	 Finally, we add the 2 columns to produce Column 7
+Column 8 is produced by
+	 Applying np.exp to Column 106
+	 Applying np.reciprocal to Column 213
+	 Finally, we add the 2 columns to produce Column 8
+Column 9 is produced by
+	 Applying np.power to Column 242
+	 The exponent for power function is 56.408456176895875
+	 Applying np.exp to Column 544
+	 Finally, we add the 2 columns to produce Column 9
+Column 10 is produced by
+	 Applying np.power to Column 652
+	 The exponent for power function is 53.508402834014404
+	 Applying np.exp to Column 247
+	 Finally, we add the 2 columns to produce Column 10
+Column 11 is produced by
+	 Applying np.exp2 to Column 571
+	 Applying np.reciprocal to Column 630
+	 Finally, we add the 2 columns to produce Column 11
+Column 12 is produced by
+	 Applying np.exp2 to Column 95
+	 Applying np.exp to Column 482
+	 Finally, we add the 2 columns to produce Column 12
+Column 13 is produced by
+	 Applying np.exp to Column 523
+	 Applying np.reciprocal to Column 187
+	 Finally, we add the 2 columns to produce Column 13
+Column 14 is produced by
+	 Applying np.exp to Column 563
+	 Applying np.exp2 to Column 43
+	 Finally, we add the 2 columns to produce Column 14
+Column 15 is produced by
+	 Applying np.exp to Column 56
+	 Applying np.exp2 to Column 444
+	 Finally, we add the 2 columns to produce Column 15
+Column 16 is produced by
+	 Applying np.power to Column 198
+	 The exponent for power function is 5.532795982288041
+	 Applying np.exp2 to Column 359
+	 Finally, we add the 2 columns to produce Column 16
+Column 17 is produced by
+	 Applying np.exp2 to Column 712
+	 Applying np.reciprocal to Column 139
+	 Finally, we add the 2 columns to produce Column 17
+Column 18 is produced by
+	 Applying np.power to Column 757
+	 The exponent for power function is 65.516854869118
+	 Applying np.exp to Column 270
+	 Finally, we add the 2 columns to produce Column 18
+Column 19 is produced by
+	 Applying np.power to Column 562
+	 The exponent for power function is 41.303529120654254
+	 Applying np.reciprocal to Column 443
+	 Finally, we add the 2 columns to produce Column 19
+Column 20 is produced by
+	 Applying np.power to Column 666
+	 The exponent for power function is 46.90655639089604
+	 Applying np.reciprocal to Column 320
+	 Finally, we add the 2 columns to produce Column 20
+Column 21 is produced by
+	 Applying np.power to Column 240
+	 The exponent for power function is 8.060666330432039
+	 Applying np.exp2 to Column 377
+	 Finally, we add the 2 columns to produce Column 21
+Column 22 is produced by
+	 Applying np.exp2 to Column 118
+	 Applying np.power to Column 63
+	 The exponent for power function is 6.291345567177886
+	 Finally, we add the 2 columns to produce Column 22
+Column 23 is produced by
+	 Applying np.reciprocal to Column 74
+	 Applying np.exp2 to Column 102
+	 Finally, we add the 2 columns to produce Column 23
+Column 24 is produced by
+	 Applying np.exp to Column 64
+	 Applying np.power to Column 191
+	 The exponent for power function is 0.04136748967427395
+	 Finally, we add the 2 columns to produce Column 24
+Column 25 is produced by
+	 Applying np.exp to Column 696
+	 Applying np.reciprocal to Column 552
+	 Finally, we add the 2 columns to produce Column 25
+Column 26 is produced by
+	 Applying np.power to Column 214
+	 The exponent for power function is 5.636290178960062
+	 Applying np.reciprocal to Column 621
+	 Finally, we add the 2 columns to produce Column 26
+Column 27 is produced by
+	 Applying np.exp to Column 206
+	 Applying np.exp2 to Column 256
+	 Finally, we add the 2 columns to produce Column 27
+Column 28 is produced by
+	 Applying np.power to Column 282
+	 The exponent for power function is 32.599213080736305
+	 Applying np.exp2 to Column 731
+	 Finally, we add the 2 columns to produce Column 28
+Column 29 is produced by
+	 Applying np.power to Column 111
+	 The exponent for power function is 2.130567624978301
+	 Applying np.reciprocal to Column 771
+	 Finally, we add the 2 columns to produce Column 29
+Column 30 is produced by
+	 Applying np.power to Column 732
+	 The exponent for power function is 19.910480378709906
+	 Applying np.exp to Column 302
+	 Finally, we add the 2 columns to produce Column 30
+Column 31 is produced by
+	 Applying np.exp2 to Column 360
+	 Applying np.reciprocal to Column 715
+	 Finally, we add the 2 columns to produce Column 31
+Column 32 is produced by
+	 Applying np.exp2 to Column 479
+	 Applying np.exp to Column 559
+	 Finally, we add the 2 columns to produce Column 32
+Column 33 is produced by
+	 Applying np.power to Column 413
+	 The exponent for power function is 23.76530740750412
+	 Applying np.exp to Column 697
+	 Finally, we add the 2 columns to produce Column 33
+Column 34 is produced by
+	 Applying np.power to Column 185
+	 The exponent for power function is 41.67890974964156
+	 Applying np.exp2 to Column 70
+	 Finally, we add the 2 columns to produce Column 34
+Column 35 is produced by
+	 Applying np.exp2 to Column 269
+	 Applying np.exp to Column 47
+	 Finally, we add the 2 columns to produce Column 35
+Column 36 is produced by
+	 Applying np.power to Column 450
+	 The exponent for power function is 8.843256953017622
+	 Applying np.exp to Column 562
+	 Finally, we add the 2 columns to produce Column 36
+Column 37 is produced by
+	 Applying np.power to Column 724
+	 The exponent for power function is 13.134980271467581
+	 Applying np.exp2 to Column 657
+	 Finally, we add the 2 columns to produce Column 37
+Column 38 is produced by
+	 Applying np.power to Column 625
+	 The exponent for power function is 24.590624785424463
+	 Applying np.reciprocal to Column 312
+	 Finally, we add the 2 columns to produce Column 38
+Column 39 is produced by
+	 Applying np.power to Column 26
+	 The exponent for power function is 6.856629595098468
+	 Applying np.reciprocal to Column 238
+	 Finally, we add the 2 columns to produce Column 39
+Column 40 is produced by
+	 Applying np.exp to Column 723
+	 Applying np.power to Column 651
+	 The exponent for power function is 33.44697452609452
+	 Finally, we add the 2 columns to produce Column 40
+Column 41 is produced by
+	 Applying np.reciprocal to Column 301
+	 Applying np.exp to Column 613
+	 Finally, we add the 2 columns to produce Column 41
+Column 42 is produced by
+	 Applying np.power to Column 309
+	 The exponent for power function is 11.71966478234309
+	 Applying np.reciprocal to Column 174
+	 Finally, we add the 2 columns to produce Column 42
+Column 43 is produced by
+	 Applying np.power to Column 268
+	 The exponent for power function is 72.57764231488886
+	 Applying np.exp2 to Column 338
+	 Finally, we add the 2 columns to produce Column 43
+Column 44 is produced by
+	 Applying np.reciprocal to Column 93
+	 Applying np.power to Column 209
+	 The exponent for power function is 7.5025274984779
+	 Finally, we add the 2 columns to produce Column 44
+Column 45 is produced by
+	 Applying np.power to Column 392
+	 The exponent for power function is 2.817915731920831
+	 Applying np.exp to Column 545
+	 Finally, we add the 2 columns to produce Column 45
+Column 46 is produced by
+	 Applying np.power to Column 40
+	 The exponent for power function is 16.57801195129622
+	 Applying np.exp to Column 478
+	 Finally, we add the 2 columns to produce Column 46
+Column 47 is produced by
+	 Applying np.power to Column 3
+	 The exponent for power function is 79.72389367690468
+	 Applying np.reciprocal to Column 619
+	 Finally, we add the 2 columns to produce Column 47
+Column 48 is produced by
+	 Applying np.exp to Column 207
+	 Applying np.power to Column 677
+	 The exponent for power function is 2.0427311519223905
+	 Finally, we add the 2 columns to produce Column 48
+Column 49 is produced by
+	 Applying np.power to Column 781
+	 The exponent for power function is 1.37594972160412
+	 Applying np.reciprocal to Column 264
+	 Finally, we add the 2 columns to produce Column 49
+Column 50 is produced by
+	 Applying np.exp2 to Column 696
+	 Applying np.exp to Column 308
+	 Finally, we add the 2 columns to produce Column 50
+Column 51 is produced by
+	 Applying np.reciprocal to Column 570
+	 Applying np.power to Column 669
+	 The exponent for power function is 4.975976338637586
+	 Finally, we add the 2 columns to produce Column 51
+Column 52 is produced by
+	 Applying np.exp to Column 520
+	 Applying np.exp2 to Column 169
+	 Finally, we add the 2 columns to produce Column 52
+Column 53 is produced by
+	 Applying np.reciprocal to Column 513
+	 Applying np.power to Column 551
+	 The exponent for power function is 28.787186496647873
+	 Finally, we add the 2 columns to produce Column 53
+Column 54 is produced by
+	 Applying np.exp to Column 338
+	 Applying np.exp2 to Column 769
+	 Finally, we add the 2 columns to produce Column 54
+Column 55 is produced by
+	 Applying np.exp to Column 613
+	 Applying np.exp2 to Column 500
+	 Finally, we add the 2 columns to produce Column 55
+Column 56 is produced by
+	 Applying np.exp2 to Column 7
+	 Applying np.reciprocal to Column 461
+	 Finally, we add the 2 columns to produce Column 56
+Column 57 is produced by
+	 Applying np.reciprocal to Column 54
+	 Applying np.power to Column 339
+	 The exponent for power function is 11.79275372139676
+	 Finally, we add the 2 columns to produce Column 57
+Column 58 is produced by
+	 Applying np.reciprocal to Column 29
+	 Applying np.power to Column 768
+	 The exponent for power function is 39.27989549527735
+	 Finally, we add the 2 columns to produce Column 58
+Column 59 is produced by
+	 Applying np.reciprocal to Column 515
+	 Applying np.power to Column 82
+	 The exponent for power function is 4.230332335406944
+	 Finally, we add the 2 columns to produce Column 59
+Column 60 is produced by
+	 Applying np.power to Column 281
+	 The exponent for power function is 19.883085574733585
+	 Applying np.exp to Column 380
+	 Finally, we add the 2 columns to produce Column 60
+Column 61 is produced by
+	 Applying np.power to Column 226
+	 The exponent for power function is 58.391462868400545
+	 Applying np.reciprocal to Column 490
+	 Finally, we add the 2 columns to produce Column 61
+Column 62 is produced by
+	 Applying np.exp2 to Column 483
+	 Applying np.exp to Column 468
+	 Finally, we add the 2 columns to produce Column 62
+Column 63 is produced by
+	 Applying np.reciprocal to Column 373
+	 Applying np.exp2 to Column 628
+	 Finally, we add the 2 columns to produce Column 63
+Column 64 is produced by
+	 Applying np.reciprocal to Column 776
+	 Applying np.exp2 to Column 735
+	 Finally, we add the 2 columns to produce Column 64
+Column 65 is produced by
+	 Applying np.exp to Column 63
+	 Applying np.power to Column 603
+	 The exponent for power function is 44.70389438325066
+	 Finally, we add the 2 columns to produce Column 65
+Column 66 is produced by
+	 Applying np.power to Column 214
+	 The exponent for power function is 26.62154614799699
+	 Applying np.reciprocal to Column 739
+	 Finally, we add the 2 columns to produce Column 66
+Column 67 is produced by
+	 Applying np.reciprocal to Column 43
+	 Applying np.exp to Column 720
+	 Finally, we add the 2 columns to produce Column 67
+Column 68 is produced by
+	 Applying np.power to Column 516
+	 The exponent for power function is 6.345702029626201
+	 Applying np.reciprocal to Column 702
+	 Finally, we add the 2 columns to produce Column 68
+Column 69 is produced by
+	 Applying np.exp to Column 467
+	 Applying np.exp2 to Column 523
+	 Finally, we add the 2 columns to produce Column 69
+Column 70 is produced by
+	 Applying np.exp2 to Column 354
+	 Applying np.power to Column 645
+	 The exponent for power function is 37.219785689991106
+	 Finally, we add the 2 columns to produce Column 70
+Column 71 is produced by
+	 Applying np.exp2 to Column 99
+	 Applying np.reciprocal to Column 274
+	 Finally, we add the 2 columns to produce Column 71
+Column 72 is produced by
+	 Applying np.power to Column 201
+	 The exponent for power function is 0.728300531263057
+	 Applying np.exp to Column 229
+	 Finally, we add the 2 columns to produce Column 72
+Column 73 is produced by
+	 Applying np.power to Column 736
+	 The exponent for power function is 63.63794368815146
+	 Applying np.exp2 to Column 404
+	 Finally, we add the 2 columns to produce Column 73
+Column 74 is produced by
+	 Applying np.reciprocal to Column 63
+	 Applying np.power to Column 760
+	 The exponent for power function is 1.3789792981716187
+	 Finally, we add the 2 columns to produce Column 74
+Column 75 is produced by
+	 Applying np.exp2 to Column 363
+	 Applying np.power to Column 316
+	 The exponent for power function is 19.440743270252984
+	 Finally, we add the 2 columns to produce Column 75
+Column 76 is produced by
+	 Applying np.exp2 to Column 685
+	 Applying np.power to Column 89
+	 The exponent for power function is 3.694954203921366
+	 Finally, we add the 2 columns to produce Column 76
+Column 77 is produced by
+	 Applying np.exp2 to Column 111
+	 Applying np.reciprocal to Column 450
+	 Finally, we add the 2 columns to produce Column 77
+Column 78 is produced by
+	 Applying np.exp to Column 512
+	 Applying np.reciprocal to Column 727
+	 Finally, we add the 2 columns to produce Column 78
+Column 79 is produced by
+	 Applying np.exp to Column 539
+	 Applying np.exp2 to Column 367
+	 Finally, we add the 2 columns to produce Column 79
+Column 80 is produced by
+	 Applying np.reciprocal to Column 71
+	 Applying np.power to Column 380
+	 The exponent for power function is 2.6491939660742307
+	 Finally, we add the 2 columns to produce Column 80
+Column 81 is produced by
+	 Applying np.reciprocal to Column 264
+	 Applying np.exp to Column 642
+	 Finally, we add the 2 columns to produce Column 81
+Column 82 is produced by
+	 Applying np.exp2 to Column 352
+	 Applying np.exp to Column 146
+	 Finally, we add the 2 columns to produce Column 82
+Column 83 is produced by
+	 Applying np.power to Column 367
+	 The exponent for power function is 0.7354570938219035
+	 Applying np.reciprocal to Column 575
+	 Finally, we add the 2 columns to produce Column 83
+Column 84 is produced by
+	 Applying np.exp to Column 2
+	 Applying np.power to Column 60
+	 The exponent for power function is 28.413075360963337
+	 Finally, we add the 2 columns to produce Column 84
+Column 85 is produced by
+	 Applying np.power to Column 64
+	 The exponent for power function is 16.449920486288512
+	 Applying np.exp2 to Column 286
+	 Finally, we add the 2 columns to produce Column 85
+Column 86 is produced by
+	 Applying np.power to Column 360
+	 The exponent for power function is 4.3690020180790325
+	 Applying np.reciprocal to Column 283
+	 Finally, we add the 2 columns to produce Column 86
+Column 87 is produced by
+	 Applying np.reciprocal to Column 700
+	 Applying np.power to Column 11
+	 The exponent for power function is 34.870877451677124
+	 Finally, we add the 2 columns to produce Column 87
+Column 88 is produced by
+	 Applying np.exp2 to Column 724
+	 Applying np.exp to Column 395
+	 Finally, we add the 2 columns to produce Column 88
+Column 89 is produced by
+	 Applying np.exp to Column 203
+	 Applying np.reciprocal to Column 493
+	 Finally, we add the 2 columns to produce Column 89
+Column 90 is produced by
+	 Applying np.power to Column 360
+	 The exponent for power function is 42.08644115219202
+	 Applying np.reciprocal to Column 640
+	 Finally, we add the 2 columns to produce Column 90
+Column 91 is produced by
+	 Applying np.exp to Column 608
+	 Applying np.reciprocal to Column 503
+	 Finally, we add the 2 columns to produce Column 91
+Column 92 is produced by
+	 Applying np.exp to Column 317
+	 Applying np.reciprocal to Column 281
+	 Finally, we add the 2 columns to produce Column 92
+Column 93 is produced by
+	 Applying np.exp2 to Column 156
+	 Applying np.reciprocal to Column 32
+	 Finally, we add the 2 columns to produce Column 93
+Column 94 is produced by
+	 Applying np.power to Column 638
+	 The exponent for power function is 12.34775160069335
+	 Applying np.reciprocal to Column 153
+	 Finally, we add the 2 columns to produce Column 94
+Column 95 is produced by
+	 Applying np.power to Column 515
+	 The exponent for power function is 4.3261416955618905
+	 Applying np.reciprocal to Column 125
+	 Finally, we add the 2 columns to produce Column 95
+Column 96 is produced by
+	 Applying np.exp2 to Column 101
+	 Applying np.power to Column 227
+	 The exponent for power function is 51.128777058460464
+	 Finally, we add the 2 columns to produce Column 96
+Column 97 is produced by
+	 Applying np.reciprocal to Column 424
+	 Applying np.exp2 to Column 780
+	 Finally, we add the 2 columns to produce Column 97
+Column 98 is produced by
+	 Applying np.reciprocal to Column 150
+	 Applying np.exp to Column 35
+	 Finally, we add the 2 columns to produce Column 98
+Column 99 is produced by
+	 Applying np.power to Column 292
+	 The exponent for power function is 28.122187707603825
+	 Applying np.exp to Column 479
+	 Finally, we add the 2 columns to produce Column 99
+Column 100 is produced by
+	 Applying np.exp to Column 302
+	 Applying np.power to Column 376
+	 The exponent for power function is 19.703034394953683
+	 Finally, we add the 2 columns to produce Column 100
+Column 101 is produced by
+	 Applying np.power to Column 277
+	 The exponent for power function is 0.6335151901036031
+	 Applying np.exp to Column 2
+	 Finally, we add the 2 columns to produce Column 101
+Column 102 is produced by
+	 Applying np.power to Column 718
+	 The exponent for power function is 23.75034854725724
+	 Applying np.exp to Column 564
+	 Finally, we add the 2 columns to produce Column 102
+Column 103 is produced by
+	 Applying np.reciprocal to Column 114
+	 Applying np.exp to Column 650
+	 Finally, we add the 2 columns to produce Column 103
+Column 104 is produced by
+	 Applying np.power to Column 421
+	 The exponent for power function is 65.85384570253183
+	 Applying np.reciprocal to Column 690
+	 Finally, we add the 2 columns to produce Column 104
+Column 105 is produced by
+	 Applying np.exp2 to Column 90
+	 Applying np.exp to Column 289
+	 Finally, we add the 2 columns to produce Column 105
+Column 106 is produced by
+	 Applying np.reciprocal to Column 127
+	 Applying np.power to Column 328
+	 The exponent for power function is 33.82113487453728
+	 Finally, we add the 2 columns to produce Column 106
+Column 107 is produced by
+	 Applying np.exp2 to Column 26
+	 Applying np.reciprocal to Column 643
+	 Finally, we add the 2 columns to produce Column 107
+Column 108 is produced by
+	 Applying np.exp2 to Column 707
+	 Applying np.power to Column 337
+	 The exponent for power function is 53.18799752630707
+	 Finally, we add the 2 columns to produce Column 108
+Column 109 is produced by
+	 Applying np.exp to Column 405
+	 Applying np.power to Column 402
+	 The exponent for power function is 47.94385801847706
+	 Finally, we add the 2 columns to produce Column 109
+Column 110 is produced by
+	 Applying np.power to Column 167
+	 The exponent for power function is 14.741930381956845
+	 Applying np.reciprocal to Column 119
+	 Finally, we add the 2 columns to produce Column 110
+Column 111 is produced by
+	 Applying np.power to Column 571
+	 The exponent for power function is 6.582330111941875
+	 Applying np.exp2 to Column 271
+	 Finally, we add the 2 columns to produce Column 111
+Column 112 is produced by
+	 Applying np.reciprocal to Column 659
+	 Applying np.power to Column 569
+	 The exponent for power function is 55.92891334529983
+	 Finally, we add the 2 columns to produce Column 112
+Column 113 is produced by
+	 Applying np.power to Column 736
+	 The exponent for power function is 10.179641997922856
+	 Applying np.exp2 to Column 352
+	 Finally, we add the 2 columns to produce Column 113
+Column 114 is produced by
+	 Applying np.exp2 to Column 71
+	 Applying np.exp to Column 348
+	 Finally, we add the 2 columns to produce Column 114
+Column 115 is produced by
+	 Applying np.exp to Column 42
+	 Applying np.reciprocal to Column 312
+	 Finally, we add the 2 columns to produce Column 115
+Column 116 is produced by
+	 Applying np.exp2 to Column 700
+	 Applying np.reciprocal to Column 440
+	 Finally, we add the 2 columns to produce Column 116
+Column 117 is produced by
+	 Applying np.reciprocal to Column 49
+	 Applying np.power to Column 488
+	 The exponent for power function is 1.028780085790188
+	 Finally, we add the 2 columns to produce Column 117
+Column 118 is produced by
+	 Applying np.reciprocal to Column 271
+	 Applying np.exp2 to Column 249
+	 Finally, we add the 2 columns to produce Column 118
+Column 119 is produced by
+	 Applying np.reciprocal to Column 283
+	 Applying np.exp2 to Column 393
+	 Finally, we add the 2 columns to produce Column 119
+Column 120 is produced by
+	 Applying np.power to Column 177
+	 The exponent for power function is 0.15426619009979292
+	 Applying np.exp to Column 590
+	 Finally, we add the 2 columns to produce Column 120
+Column 121 is produced by
+	 Applying np.exp2 to Column 209
+	 Applying np.exp to Column 555
+	 Finally, we add the 2 columns to produce Column 121
+Column 122 is produced by
+	 Applying np.exp2 to Column 576
+	 Applying np.exp to Column 605
+	 Finally, we add the 2 columns to produce Column 122
+Column 123 is produced by
+	 Applying np.exp to Column 607
+	 Applying np.exp2 to Column 236
+	 Finally, we add the 2 columns to produce Column 123
+Column 124 is produced by
+	 Applying np.reciprocal to Column 61
+	 Applying np.exp2 to Column 586
+	 Finally, we add the 2 columns to produce Column 124
+Column 125 is produced by
+	 Applying np.power to Column 625
+	 The exponent for power function is 2.709312608723411
+	 Applying np.exp to Column 237
+	 Finally, we add the 2 columns to produce Column 125
+Column 126 is produced by
+	 Applying np.exp2 to Column 315
+	 Applying np.exp to Column 293
+	 Finally, we add the 2 columns to produce Column 126
+Column 127 is produced by
+	 Applying np.power to Column 455
+	 The exponent for power function is 78.96841130561626
+	 Applying np.reciprocal to Column 44
+	 Finally, we add the 2 columns to produce Column 127
+Column 128 is produced by
+	 Applying np.exp2 to Column 600
+	 Applying np.exp to Column 259
+	 Finally, we add the 2 columns to produce Column 128
+Column 129 is produced by
+	 Applying np.power to Column 305
+	 The exponent for power function is 52.60745116422405
+	 Applying np.reciprocal to Column 589
+	 Finally, we add the 2 columns to produce Column 129
+Column 130 is produced by
+	 Applying np.power to Column 728
+	 The exponent for power function is 81.38993133697443
+	 Applying np.exp2 to Column 235
+	 Finally, we add the 2 columns to produce Column 130
+Column 131 is produced by
+	 Applying np.power to Column 644
+	 The exponent for power function is 37.973730464982076
+	 Applying np.exp to Column 399
+	 Finally, we add the 2 columns to produce Column 131
+Column 132 is produced by
+	 Applying np.power to Column 621
+	 The exponent for power function is 2.3922906351703963
+	 Applying np.exp2 to Column 119
+	 Finally, we add the 2 columns to produce Column 132
+Column 133 is produced by
+	 Applying np.exp to Column 540
+	 Applying np.power to Column 716
+	 The exponent for power function is 31.994149072158972
+	 Finally, we add the 2 columns to produce Column 133
+Column 134 is produced by
+	 Applying np.power to Column 239
+	 The exponent for power function is 37.58373392391032
+	 Applying np.exp to Column 698
+	 Finally, we add the 2 columns to produce Column 134
+Column 135 is produced by
+	 Applying np.exp2 to Column 556
+	 Applying np.power to Column 780
+	 The exponent for power function is 60.378270638453294
+	 Finally, we add the 2 columns to produce Column 135
+Column 136 is produced by
+	 Applying np.exp to Column 602
+	 Applying np.exp2 to Column 303
+	 Finally, we add the 2 columns to produce Column 136
+Column 137 is produced by
+	 Applying np.reciprocal to Column 401
+	 Applying np.exp2 to Column 327
+	 Finally, we add the 2 columns to produce Column 137
+Column 138 is produced by
+	 Applying np.exp2 to Column 79
+	 Applying np.exp to Column 322
+	 Finally, we add the 2 columns to produce Column 138
+Column 139 is produced by
+	 Applying np.reciprocal to Column 220
+	 Applying np.exp to Column 34
+	 Finally, we add the 2 columns to produce Column 139
+Column 140 is produced by
+	 Applying np.exp to Column 780
+	 Applying np.reciprocal to Column 166
+	 Finally, we add the 2 columns to produce Column 140
+Column 141 is produced by
+	 Applying np.power to Column 268
+	 The exponent for power function is 0.7633728455425385
+	 Applying np.exp2 to Column 41
+	 Finally, we add the 2 columns to produce Column 141
+Column 142 is produced by
+	 Applying np.reciprocal to Column 188
+	 Applying np.exp2 to Column 703
+	 Finally, we add the 2 columns to produce Column 142
+Column 143 is produced by
+	 Applying np.reciprocal to Column 252
+	 Applying np.exp to Column 632
+	 Finally, we add the 2 columns to produce Column 143
+Column 144 is produced by
+	 Applying np.reciprocal to Column 116
+	 Applying np.power to Column 703
+	 The exponent for power function is 37.585971173723436
+	 Finally, we add the 2 columns to produce Column 144
+Column 145 is produced by
+	 Applying np.exp2 to Column 127
+	 Applying np.power to Column 433
+	 The exponent for power function is 29.95030689751479
+	 Finally, we add the 2 columns to produce Column 145
+Column 146 is produced by
+	 Applying np.power to Column 478
+	 The exponent for power function is 0.9454642979928503
+	 Applying np.reciprocal to Column 435
+	 Finally, we add the 2 columns to produce Column 146
+Column 147 is produced by
+	 Applying np.power to Column 539
+	 The exponent for power function is 1.085489362310173
+	 Applying np.exp to Column 231
+	 Finally, we add the 2 columns to produce Column 147
+Column 148 is produced by
+	 Applying np.reciprocal to Column 547
+	 Applying np.exp2 to Column 705
+	 Finally, we add the 2 columns to produce Column 148
+Column 149 is produced by
+	 Applying np.power to Column 641
+	 The exponent for power function is 20.109295368771384
+	 Applying np.reciprocal to Column 107
+	 Finally, we add the 2 columns to produce Column 149
+Column 150 is produced by
+	 Applying np.exp2 to Column 179
+	 Applying np.exp to Column 573
+	 Finally, we add the 2 columns to produce Column 150
+Column 151 is produced by
+	 Applying np.reciprocal to Column 726
+	 Applying np.exp2 to Column 359
+	 Finally, we add the 2 columns to produce Column 151
+Column 152 is produced by
+	 Applying np.power to Column 575
+	 The exponent for power function is 16.6899844947912
+	 Applying np.reciprocal to Column 623
+	 Finally, we add the 2 columns to produce Column 152
+Column 153 is produced by
+	 Applying np.exp2 to Column 164
+	 Applying np.power to Column 192
+	 The exponent for power function is 1.292563957232318
+	 Finally, we add the 2 columns to produce Column 153
+Column 154 is produced by
+	 Applying np.reciprocal to Column 773
+	 Applying np.power to Column 526
+	 The exponent for power function is 20.64678012420584
+	 Finally, we add the 2 columns to produce Column 154
+Column 155 is produced by
+	 Applying np.exp to Column 783
+	 Applying np.exp2 to Column 124
+	 Finally, we add the 2 columns to produce Column 155
+Column 156 is produced by
+	 Applying np.power to Column 51
+	 The exponent for power function is 41.29446689070813
+	 Applying np.exp to Column 312
+	 Finally, we add the 2 columns to produce Column 156
+Column 157 is produced by
+	 Applying np.power to Column 36
+	 The exponent for power function is 16.975855212538015
+	 Applying np.exp2 to Column 738
+	 Finally, we add the 2 columns to produce Column 157
+Column 158 is produced by
+	 Applying np.exp2 to Column 477
+	 Applying np.exp to Column 318
+	 Finally, we add the 2 columns to produce Column 158
+Column 159 is produced by
+	 Applying np.reciprocal to Column 292
+	 Applying np.exp to Column 25
+	 Finally, we add the 2 columns to produce Column 159
+Column 160 is produced by
+	 Applying np.power to Column 650
+	 The exponent for power function is 7.898645767008235
+	 Applying np.exp to Column 711
+	 Finally, we add the 2 columns to produce Column 160
+Column 161 is produced by
+	 Applying np.exp2 to Column 353
+	 Applying np.power to Column 65
+	 The exponent for power function is 25.691009913307155
+	 Finally, we add the 2 columns to produce Column 161
+Column 162 is produced by
+	 Applying np.reciprocal to Column 364
+	 Applying np.exp to Column 371
+	 Finally, we add the 2 columns to produce Column 162
+Column 163 is produced by
+	 Applying np.power to Column 256
+	 The exponent for power function is 41.28412507017619
+	 Applying np.reciprocal to Column 185
+	 Finally, we add the 2 columns to produce Column 163
+Column 164 is produced by
+	 Applying np.power to Column 615
+	 The exponent for power function is 6.087394333812617
+	 Applying np.reciprocal to Column 65
+	 Finally, we add the 2 columns to produce Column 164
+Column 165 is produced by
+	 Applying np.reciprocal to Column 255
+	 Applying np.exp to Column 560
+	 Finally, we add the 2 columns to produce Column 165
+Column 166 is produced by
+	 Applying np.power to Column 478
+	 The exponent for power function is 43.054716496816106
+	 Applying np.reciprocal to Column 631
+	 Finally, we add the 2 columns to produce Column 166
+Column 167 is produced by
+	 Applying np.reciprocal to Column 783
+	 Applying np.exp to Column 618
+	 Finally, we add the 2 columns to produce Column 167
+Column 168 is produced by
+	 Applying np.reciprocal to Column 708
+	 Applying np.exp2 to Column 385
+	 Finally, we add the 2 columns to produce Column 168
+Column 169 is produced by
+	 Applying np.power to Column 740
+	 The exponent for power function is 2.7640925896305766
+	 Applying np.exp2 to Column 391
+	 Finally, we add the 2 columns to produce Column 169
+Column 170 is produced by
+	 Applying np.reciprocal to Column 601
+	 Applying np.exp2 to Column 62
+	 Finally, we add the 2 columns to produce Column 170
+Column 171 is produced by
+	 Applying np.exp to Column 780
+	 Applying np.exp2 to Column 170
+	 Finally, we add the 2 columns to produce Column 171
+Column 172 is produced by
+	 Applying np.reciprocal to Column 343
+	 Applying np.exp to Column 568
+	 Finally, we add the 2 columns to produce Column 172
+Column 173 is produced by
+	 Applying np.reciprocal to Column 598
+	 Applying np.power to Column 770
+	 The exponent for power function is 42.411291587296766
+	 Finally, we add the 2 columns to produce Column 173
+Column 174 is produced by
+	 Applying np.reciprocal to Column 527
+	 Applying np.exp2 to Column 736
+	 Finally, we add the 2 columns to produce Column 174
+Column 175 is produced by
+	 Applying np.exp to Column 666
+	 Applying np.reciprocal to Column 316
+	 Finally, we add the 2 columns to produce Column 175
+Column 176 is produced by
+	 Applying np.exp to Column 252
+	 Applying np.reciprocal to Column 606
+	 Finally, we add the 2 columns to produce Column 176
+Column 177 is produced by
+	 Applying np.exp to Column 513
+	 Applying np.power to Column 36
+	 The exponent for power function is 28.29921610261945
+	 Finally, we add the 2 columns to produce Column 177
+Column 178 is produced by
+	 Applying np.reciprocal to Column 87
+	 Applying np.power to Column 547
+	 The exponent for power function is 4.95867192873461
+	 Finally, we add the 2 columns to produce Column 178
+Column 179 is produced by
+	 Applying np.exp2 to Column 641
+	 Applying np.power to Column 407
+	 The exponent for power function is 10.761092429488889
+	 Finally, we add the 2 columns to produce Column 179
+Column 180 is produced by
+	 Applying np.power to Column 771
+	 The exponent for power function is 22.185658921580682
+	 Applying np.reciprocal to Column 748
+	 Finally, we add the 2 columns to produce Column 180
+Column 181 is produced by
+	 Applying np.exp to Column 98
+	 Applying np.exp2 to Column 30
+	 Finally, we add the 2 columns to produce Column 181
+Column 182 is produced by
+	 Applying np.exp2 to Column 247
+	 Applying np.exp to Column 220
+	 Finally, we add the 2 columns to produce Column 182
+Column 183 is produced by
+	 Applying np.reciprocal to Column 290
+	 Applying np.exp to Column 26
+	 Finally, we add the 2 columns to produce Column 183
+Column 184 is produced by
+	 Applying np.exp to Column 657
+	 Applying np.power to Column 390
+	 The exponent for power function is 10.29054083060272
+	 Finally, we add the 2 columns to produce Column 184
+Column 185 is produced by
+	 Applying np.reciprocal to Column 472
+	 Applying np.exp to Column 436
+	 Finally, we add the 2 columns to produce Column 185
+Column 186 is produced by
+	 Applying np.exp2 to Column 215
+	 Applying np.reciprocal to Column 379
+	 Finally, we add the 2 columns to produce Column 186
+Column 187 is produced by
+	 Applying np.exp to Column 477
+	 Applying np.exp2 to Column 233
+	 Finally, we add the 2 columns to produce Column 187
+Column 188 is produced by
+	 Applying np.exp2 to Column 396
+	 Applying np.power to Column 44
+	 The exponent for power function is 58.68738372255503
+	 Finally, we add the 2 columns to produce Column 188
+Column 189 is produced by
+	 Applying np.exp to Column 330
+	 Applying np.power to Column 545
+	 The exponent for power function is 0.33406405111979576
+	 Finally, we add the 2 columns to produce Column 189
+Column 190 is produced by
+	 Applying np.exp2 to Column 452
+	 Applying np.power to Column 595
+	 The exponent for power function is 35.430240538027526
+	 Finally, we add the 2 columns to produce Column 190
+Column 191 is produced by
+	 Applying np.exp2 to Column 2
+	 Applying np.power to Column 714
+	 The exponent for power function is 2.4615766666987184
+	 Finally, we add the 2 columns to produce Column 191
+Column 192 is produced by
+	 Applying np.exp2 to Column 384
+	 Applying np.power to Column 49
+	 The exponent for power function is 48.40803174148958
+	 Finally, we add the 2 columns to produce Column 192
+Column 193 is produced by
+	 Applying np.exp2 to Column 527
+	 Applying np.reciprocal to Column 405
+	 Finally, we add the 2 columns to produce Column 193
+Column 194 is produced by
+	 Applying np.reciprocal to Column 78
+	 Applying np.exp to Column 212
+	 Finally, we add the 2 columns to produce Column 194
+Column 195 is produced by
+	 Applying np.exp to Column 432
+	 Applying np.exp2 to Column 739
+	 Finally, we add the 2 columns to produce Column 195
+Column 196 is produced by
+	 Applying np.power to Column 714
+	 The exponent for power function is 27.32416525609558
+	 Applying np.reciprocal to Column 675
+	 Finally, we add the 2 columns to produce Column 196
+Column 197 is produced by
+	 Applying np.exp2 to Column 388
+	 Applying np.exp to Column 280
+	 Finally, we add the 2 columns to produce Column 197
+Column 198 is produced by
+	 Applying np.exp2 to Column 734
+	 Applying np.exp to Column 550
+	 Finally, we add the 2 columns to produce Column 198
+Column 199 is produced by
+	 Applying np.exp2 to Column 41
+	 Applying np.exp to Column 205
+	 Finally, we add the 2 columns to produce Column 199
+Column 200 is produced by
+	 Applying np.exp to Column 1
+	 Applying np.exp2 to Column 769
+	 Finally, we add the 2 columns to produce Column 200
+Column 201 is produced by
+	 Applying np.power to Column 250
+	 The exponent for power function is 36.1939442295497
+	 Applying np.exp2 to Column 404
+	 Finally, we add the 2 columns to produce Column 201
+Column 202 is produced by
+	 Applying np.reciprocal to Column 182
+	 Applying np.exp to Column 414
+	 Finally, we add the 2 columns to produce Column 202
+Column 203 is produced by
+	 Applying np.exp to Column 392
+	 Applying np.reciprocal to Column 576
+	 Finally, we add the 2 columns to produce Column 203
+Column 204 is produced by
+	 Applying np.reciprocal to Column 288
+	 Applying np.exp2 to Column 133
+	 Finally, we add the 2 columns to produce Column 204
+Column 205 is produced by
+	 Applying np.exp2 to Column 236
+	 Applying np.exp to Column 653
+	 Finally, we add the 2 columns to produce Column 205
+Column 206 is produced by
+	 Applying np.reciprocal to Column 697
+	 Applying np.power to Column 69
+	 The exponent for power function is 16.810600668118997
+	 Finally, we add the 2 columns to produce Column 206
+Column 207 is produced by
+	 Applying np.power to Column 296
+	 The exponent for power function is 51.26345307672496
+	 Applying np.exp2 to Column 399
+	 Finally, we add the 2 columns to produce Column 207
+Column 208 is produced by
+	 Applying np.reciprocal to Column 323
+	 Applying np.power to Column 96
+	 The exponent for power function is 43.29151942673943
+	 Finally, we add the 2 columns to produce Column 208
+Column 209 is produced by
+	 Applying np.exp to Column 512
+	 Applying np.power to Column 637
+	 The exponent for power function is 32.9676961316446
+	 Finally, we add the 2 columns to produce Column 209
+Column 210 is produced by
+	 Applying np.power to Column 643
+	 The exponent for power function is 37.079358947061735
+	 Applying np.reciprocal to Column 327
+	 Finally, we add the 2 columns to produce Column 210
+Column 211 is produced by
+	 Applying np.exp to Column 332
+	 Applying np.reciprocal to Column 455
+	 Finally, we add the 2 columns to produce Column 211
+Column 212 is produced by
+	 Applying np.reciprocal to Column 441
+	 Applying np.power to Column 481
+	 The exponent for power function is 12.048195847107934
+	 Finally, we add the 2 columns to produce Column 212
+Column 213 is produced by
+	 Applying np.exp to Column 2
+	 Applying np.reciprocal to Column 681
+	 Finally, we add the 2 columns to produce Column 213
+Column 214 is produced by
+	 Applying np.power to Column 268
+	 The exponent for power function is 5.477146746488649
+	 Applying np.exp to Column 18
+	 Finally, we add the 2 columns to produce Column 214
+Column 215 is produced by
+	 Applying np.exp to Column 702
+	 Applying np.power to Column 127
+	 The exponent for power function is 66.06551792787255
+	 Finally, we add the 2 columns to produce Column 215
+Column 216 is produced by
+	 Applying np.reciprocal to Column 441
+	 Applying np.exp2 to Column 375
+	 Finally, we add the 2 columns to produce Column 216
+Column 217 is produced by
+	 Applying np.reciprocal to Column 110
+	 Applying np.exp2 to Column 220
+	 Finally, we add the 2 columns to produce Column 217
+Column 218 is produced by
+	 Applying np.exp to Column 77
+	 Applying np.exp2 to Column 683
+	 Finally, we add the 2 columns to produce Column 218
+Column 219 is produced by
+	 Applying np.exp2 to Column 136
+	 Applying np.exp to Column 604
+	 Finally, we add the 2 columns to produce Column 219
+Column 220 is produced by
+	 Applying np.reciprocal to Column 225
+	 Applying np.exp to Column 539
+	 Finally, we add the 2 columns to produce Column 220
+Column 221 is produced by
+	 Applying np.power to Column 719
+	 The exponent for power function is 4.705567472480346
+	 Applying np.exp2 to Column 487
+	 Finally, we add the 2 columns to produce Column 221
+Column 222 is produced by
+	 Applying np.exp to Column 551
+	 Applying np.exp2 to Column 342
+	 Finally, we add the 2 columns to produce Column 222
+Column 223 is produced by
+	 Applying np.reciprocal to Column 18
+	 Applying np.power to Column 486
+	 The exponent for power function is 3.431247033144129
+	 Finally, we add the 2 columns to produce Column 223
+Column 224 is produced by
+	 Applying np.power to Column 146
+	 The exponent for power function is 18.376056009992208
+	 Applying np.exp to Column 418
+	 Finally, we add the 2 columns to produce Column 224
+Column 225 is produced by
+	 Applying np.reciprocal to Column 691
+	 Applying np.exp to Column 341
+	 Finally, we add the 2 columns to produce Column 225
+Column 226 is produced by
+	 Applying np.exp2 to Column 607
+	 Applying np.power to Column 495
+	 The exponent for power function is 14.25448602785515
+	 Finally, we add the 2 columns to produce Column 226
+Column 227 is produced by
+	 Applying np.exp to Column 376
+	 Applying np.reciprocal to Column 272
+	 Finally, we add the 2 columns to produce Column 227
+Column 228 is produced by
+	 Applying np.power to Column 45
+	 The exponent for power function is 15.043875718118315
+	 Applying np.exp to Column 40
+	 Finally, we add the 2 columns to produce Column 228
+Column 229 is produced by
+	 Applying np.exp to Column 340
+	 Applying np.reciprocal to Column 444
+	 Finally, we add the 2 columns to produce Column 229
+Column 230 is produced by
+	 Applying np.exp2 to Column 252
+	 Applying np.exp to Column 553
+	 Finally, we add the 2 columns to produce Column 230
+Column 231 is produced by
+	 Applying np.exp to Column 481
+	 Applying np.power to Column 433
+	 The exponent for power function is 8.299954811725598
+	 Finally, we add the 2 columns to produce Column 231
+Column 232 is produced by
+	 Applying np.exp2 to Column 25
+	 Applying np.power to Column 599
+	 The exponent for power function is 35.832568806079145
+	 Finally, we add the 2 columns to produce Column 232
+Column 233 is produced by
+	 Applying np.exp2 to Column 277
+	 Applying np.exp to Column 106
+	 Finally, we add the 2 columns to produce Column 233
+Column 234 is produced by
+	 Applying np.power to Column 473
+	 The exponent for power function is 21.447248553296927
+	 Applying np.exp2 to Column 365
+	 Finally, we add the 2 columns to produce Column 234
+Column 235 is produced by
+	 Applying np.reciprocal to Column 377
+	 Applying np.exp to Column 674
+	 Finally, we add the 2 columns to produce Column 235
+Column 236 is produced by
+	 Applying np.reciprocal to Column 609
+	 Applying np.power to Column 703
+	 The exponent for power function is 3.9060249632177304
+	 Finally, we add the 2 columns to produce Column 236
+Column 237 is produced by
+	 Applying np.reciprocal to Column 523
+	 Applying np.exp to Column 407
+	 Finally, we add the 2 columns to produce Column 237
+Column 238 is produced by
+	 Applying np.exp2 to Column 757
+	 Applying np.reciprocal to Column 94
+	 Finally, we add the 2 columns to produce Column 238
+Column 239 is produced by
+	 Applying np.power to Column 66
+	 The exponent for power function is 22.20561663880489
+	 Applying np.exp to Column 465
+	 Finally, we add the 2 columns to produce Column 239
+Column 240 is produced by
+	 Applying np.exp2 to Column 265
+	 Applying np.exp to Column 715
+	 Finally, we add the 2 columns to produce Column 240
+Column 241 is produced by
+	 Applying np.exp to Column 271
+	 Applying np.power to Column 345
+	 The exponent for power function is 3.181648732314934
+	 Finally, we add the 2 columns to produce Column 241
+Column 242 is produced by
+	 Applying np.reciprocal to Column 80
+	 Applying np.power to Column 147
+	 The exponent for power function is 19.395210172361704
+	 Finally, we add the 2 columns to produce Column 242
+Column 243 is produced by
+	 Applying np.exp to Column 708
+	 Applying np.exp2 to Column 591
+	 Finally, we add the 2 columns to produce Column 243
+Column 244 is produced by
+	 Applying np.power to Column 492
+	 The exponent for power function is 0.7395283978328053
+	 Applying np.reciprocal to Column 732
+	 Finally, we add the 2 columns to produce Column 244
+Column 245 is produced by
+	 Applying np.power to Column 104
+	 The exponent for power function is 51.415862799673896
+	 Applying np.exp to Column 526
+	 Finally, we add the 2 columns to produce Column 245
+Column 246 is produced by
+	 Applying np.exp2 to Column 223
+	 Applying np.exp to Column 64
+	 Finally, we add the 2 columns to produce Column 246
+Column 247 is produced by
+	 Applying np.exp to Column 63
+	 Applying np.exp2 to Column 130
+	 Finally, we add the 2 columns to produce Column 247
+Column 248 is produced by
+	 Applying np.exp2 to Column 570
+	 Applying np.exp to Column 676
+	 Finally, we add the 2 columns to produce Column 248
+Column 249 is produced by
+	 Applying np.power to Column 362
+	 The exponent for power function is 54.78842256474145
+	 Applying np.reciprocal to Column 278
+	 Finally, we add the 2 columns to produce Column 249
+Column 250 is produced by
+	 Applying np.power to Column 115
+	 The exponent for power function is 19.45763386818324
+	 Applying np.exp to Column 91
+	 Finally, we add the 2 columns to produce Column 250
+Column 251 is produced by
+	 Applying np.reciprocal to Column 294
+	 Applying np.power to Column 74
+	 The exponent for power function is 9.161531740044039
+	 Finally, we add the 2 columns to produce Column 251
+Column 252 is produced by
+	 Applying np.exp to Column 263
+	 Applying np.exp2 to Column 570
+	 Finally, we add the 2 columns to produce Column 252
+Column 253 is produced by
+	 Applying np.power to Column 722
+	 The exponent for power function is 11.864693875028177
+	 Applying np.reciprocal to Column 192
+	 Finally, we add the 2 columns to produce Column 253
+Column 254 is produced by
+	 Applying np.exp to Column 172
+	 Applying np.power to Column 698
+	 The exponent for power function is 5.590232266143797
+	 Finally, we add the 2 columns to produce Column 254
+Column 255 is produced by
+	 Applying np.power to Column 432
+	 The exponent for power function is 18.419071895449587
+	 Applying np.exp2 to Column 143
+	 Finally, we add the 2 columns to produce Column 255
+Column 256 is produced by
+	 Applying np.exp2 to Column 389
+	 Applying np.exp to Column 654
+	 Finally, we add the 2 columns to produce Column 256
+Column 257 is produced by
+	 Applying np.exp to Column 320
+	 Applying np.exp2 to Column 468
+	 Finally, we add the 2 columns to produce Column 257
+Column 258 is produced by
+	 Applying np.exp to Column 171
+	 Applying np.exp2 to Column 225
+	 Finally, we add the 2 columns to produce Column 258
+Column 259 is produced by
+	 Applying np.power to Column 21
+	 The exponent for power function is 5.847672127478029
+	 Applying np.reciprocal to Column 179
+	 Finally, we add the 2 columns to produce Column 259
+Column 260 is produced by
+	 Applying np.exp to Column 406
+	 Applying np.reciprocal to Column 420
+	 Finally, we add the 2 columns to produce Column 260
+Column 261 is produced by
+	 Applying np.reciprocal to Column 426
+	 Applying np.exp2 to Column 721
+	 Finally, we add the 2 columns to produce Column 261
+Column 262 is produced by
+	 Applying np.exp2 to Column 15
+	 Applying np.exp to Column 250
+	 Finally, we add the 2 columns to produce Column 262
+Column 263 is produced by
+	 Applying np.exp to Column 374
+	 Applying np.reciprocal to Column 159
+	 Finally, we add the 2 columns to produce Column 263
+Column 264 is produced by
+	 Applying np.exp2 to Column 686
+	 Applying np.reciprocal to Column 91
+	 Finally, we add the 2 columns to produce Column 264
+Column 265 is produced by
+	 Applying np.power to Column 684
+	 The exponent for power function is 2.5376080005117476
+	 Applying np.exp2 to Column 242
+	 Finally, we add the 2 columns to produce Column 265
+Column 266 is produced by
+	 Applying np.power to Column 277
+	 The exponent for power function is 12.792804705009907
+	 Applying np.exp2 to Column 520
+	 Finally, we add the 2 columns to produce Column 266
+Column 267 is produced by
+	 Applying np.power to Column 333
+	 The exponent for power function is 20.371594803372037
+	 Applying np.reciprocal to Column 253
+	 Finally, we add the 2 columns to produce Column 267
+Column 268 is produced by
+	 Applying np.power to Column 761
+	 The exponent for power function is 7.457096047551755
+	 Applying np.exp to Column 177
+	 Finally, we add the 2 columns to produce Column 268
+Column 269 is produced by
+	 Applying np.power to Column 432
+	 The exponent for power function is 4.340316886870831
+	 Applying np.exp2 to Column 777
+	 Finally, we add the 2 columns to produce Column 269
+Column 270 is produced by
+	 Applying np.reciprocal to Column 334
+	 Applying np.exp to Column 595
+	 Finally, we add the 2 columns to produce Column 270
+Column 271 is produced by
+	 Applying np.exp to Column 594
+	 Applying np.power to Column 47
+	 The exponent for power function is 84.56178396774017
+	 Finally, we add the 2 columns to produce Column 271
+Column 272 is produced by
+	 Applying np.exp2 to Column 521
+	 Applying np.power to Column 214
+	 The exponent for power function is 2.267479409295077
+	 Finally, we add the 2 columns to produce Column 272
+Column 273 is produced by
+	 Applying np.power to Column 490
+	 The exponent for power function is 7.059693288393529
+	 Applying np.reciprocal to Column 514
+	 Finally, we add the 2 columns to produce Column 273
+Column 274 is produced by
+	 Applying np.exp2 to Column 72
+	 Applying np.power to Column 286
+	 The exponent for power function is 55.791424461108726
+	 Finally, we add the 2 columns to produce Column 274
+Column 275 is produced by
+	 Applying np.power to Column 690
+	 The exponent for power function is 11.841509380542323
+	 Applying np.exp to Column 723
+	 Finally, we add the 2 columns to produce Column 275
+Column 276 is produced by
+	 Applying np.exp2 to Column 156
+	 Applying np.power to Column 676
+	 The exponent for power function is 13.19913660390052
+	 Finally, we add the 2 columns to produce Column 276
+Column 277 is produced by
+	 Applying np.power to Column 447
+	 The exponent for power function is 1.5052443541999057
+	 Applying np.exp to Column 429
+	 Finally, we add the 2 columns to produce Column 277
+Column 278 is produced by
+	 Applying np.reciprocal to Column 376
+	 Applying np.power to Column 388
+	 The exponent for power function is 50.54253205043571
+	 Finally, we add the 2 columns to produce Column 278
+Column 279 is produced by
+	 Applying np.exp2 to Column 624
+	 Applying np.exp to Column 597
+	 Finally, we add the 2 columns to produce Column 279
+Column 280 is produced by
+	 Applying np.exp2 to Column 246
+	 Applying np.exp to Column 736
+	 Finally, we add the 2 columns to produce Column 280
+Column 281 is produced by
+	 Applying np.exp2 to Column 521
+	 Applying np.reciprocal to Column 622
+	 Finally, we add the 2 columns to produce Column 281
+Column 282 is produced by
+	 Applying np.reciprocal to Column 774
+	 Applying np.power to Column 629
+	 The exponent for power function is 42.50060379748638
+	 Finally, we add the 2 columns to produce Column 282
+Column 283 is produced by
+	 Applying np.exp to Column 287
+	 Applying np.reciprocal to Column 488
+	 Finally, we add the 2 columns to produce Column 283
+Column 284 is produced by
+	 Applying np.exp to Column 378
+	 Applying np.power to Column 62
+	 The exponent for power function is 48.13402098773317
+	 Finally, we add the 2 columns to produce Column 284
+Column 285 is produced by
+	 Applying np.exp2 to Column 545
+	 Applying np.reciprocal to Column 780
+	 Finally, we add the 2 columns to produce Column 285
+Column 286 is produced by
+	 Applying np.exp to Column 287
+	 Applying np.reciprocal to Column 313
+	 Finally, we add the 2 columns to produce Column 286
+Column 287 is produced by
+	 Applying np.exp2 to Column 84
+	 Applying np.reciprocal to Column 339
+	 Finally, we add the 2 columns to produce Column 287
+Column 288 is produced by
+	 Applying np.exp2 to Column 181
+	 Applying np.reciprocal to Column 255
+	 Finally, we add the 2 columns to produce Column 288
+Column 289 is produced by
+	 Applying np.reciprocal to Column 19
+	 Applying np.exp to Column 371
+	 Finally, we add the 2 columns to produce Column 289
+Column 290 is produced by
+	 Applying np.power to Column 55
+	 The exponent for power function is 11.789702316912734
+	 Applying np.exp2 to Column 502
+	 Finally, we add the 2 columns to produce Column 290
+Column 291 is produced by
+	 Applying np.power to Column 236
+	 The exponent for power function is 53.75213682123151
+	 Applying np.exp to Column 402
+	 Finally, we add the 2 columns to produce Column 291
+Column 292 is produced by
+	 Applying np.reciprocal to Column 549
+	 Applying np.exp to Column 79
+	 Finally, we add the 2 columns to produce Column 292
+Column 293 is produced by
+	 Applying np.power to Column 59
+	 The exponent for power function is 53.74970956222096
+	 Applying np.exp to Column 602
+	 Finally, we add the 2 columns to produce Column 293
+Column 294 is produced by
+	 Applying np.exp to Column 326
+	 Applying np.reciprocal to Column 74
+	 Finally, we add the 2 columns to produce Column 294
+Column 295 is produced by
+	 Applying np.exp to Column 534
+	 Applying np.reciprocal to Column 503
+	 Finally, we add the 2 columns to produce Column 295
+Column 296 is produced by
+	 Applying np.power to Column 524
+	 The exponent for power function is 3.7734618825840998
+	 Applying np.exp to Column 661
+	 Finally, we add the 2 columns to produce Column 296
+Column 297 is produced by
+	 Applying np.power to Column 595
+	 The exponent for power function is 58.06366748145133
+	 Applying np.exp to Column 45
+	 Finally, we add the 2 columns to produce Column 297
+Column 298 is produced by
+	 Applying np.reciprocal to Column 152
+	 Applying np.exp2 to Column 81
+	 Finally, we add the 2 columns to produce Column 298
+Column 299 is produced by
+	 Applying np.reciprocal to Column 649
+	 Applying np.exp2 to Column 636
+	 Finally, we add the 2 columns to produce Column 299
+Column 300 is produced by
+	 Applying np.reciprocal to Column 66
+	 Applying np.exp2 to Column 627
+	 Finally, we add the 2 columns to produce Column 300
+Column 301 is produced by
+	 Applying np.exp2 to Column 161
+	 Applying np.power to Column 343
+	 The exponent for power function is 46.851055520340495
+	 Finally, we add the 2 columns to produce Column 301
+Column 302 is produced by
+	 Applying np.exp to Column 428
+	 Applying np.power to Column 265
+	 The exponent for power function is 1.4753418785700187
+	 Finally, we add the 2 columns to produce Column 302
+Column 303 is produced by
+	 Applying np.reciprocal to Column 546
+	 Applying np.exp to Column 153
+	 Finally, we add the 2 columns to produce Column 303
+Column 304 is produced by
+	 Applying np.reciprocal to Column 592
+	 Applying np.exp to Column 710
+	 Finally, we add the 2 columns to produce Column 304
+Column 305 is produced by
+	 Applying np.exp to Column 685
+	 Applying np.reciprocal to Column 454
+	 Finally, we add the 2 columns to produce Column 305
+Column 306 is produced by
+	 Applying np.power to Column 388
+	 The exponent for power function is 29.017958248752336
+	 Applying np.reciprocal to Column 263
+	 Finally, we add the 2 columns to produce Column 306
+Column 307 is produced by
+	 Applying np.reciprocal to Column 450
+	 Applying np.power to Column 156
+	 The exponent for power function is 30.883850859093315
+	 Finally, we add the 2 columns to produce Column 307
+Column 308 is produced by
+	 Applying np.exp2 to Column 566
+	 Applying np.reciprocal to Column 304
+	 Finally, we add the 2 columns to produce Column 308
+Column 309 is produced by
+	 Applying np.power to Column 617
+	 The exponent for power function is 1.8942333641338083
+	 Applying np.exp to Column 456
+	 Finally, we add the 2 columns to produce Column 309
+Column 310 is produced by
+	 Applying np.exp to Column 350
+	 Applying np.reciprocal to Column 625
+	 Finally, we add the 2 columns to produce Column 310
+Column 311 is produced by
+	 Applying np.power to Column 635
+	 The exponent for power function is 82.41207587378976
+	 Applying np.reciprocal to Column 720
+	 Finally, we add the 2 columns to produce Column 311
+Column 312 is produced by
+	 Applying np.exp to Column 84
+	 Applying np.power to Column 730
+	 The exponent for power function is 0.6137567345793844
+	 Finally, we add the 2 columns to produce Column 312
+Column 313 is produced by
+	 Applying np.exp2 to Column 308
+	 Applying np.power to Column 59
+	 The exponent for power function is 38.835058234695296
+	 Finally, we add the 2 columns to produce Column 313
+Column 314 is produced by
+	 Applying np.exp2 to Column 741
+	 Applying np.reciprocal to Column 456
+	 Finally, we add the 2 columns to produce Column 314
+Column 315 is produced by
+	 Applying np.reciprocal to Column 233
+	 Applying np.power to Column 41
+	 The exponent for power function is 5.283101159366157
+	 Finally, we add the 2 columns to produce Column 315
+Column 316 is produced by
+	 Applying np.exp2 to Column 589
+	 Applying np.power to Column 566
+	 The exponent for power function is 2.274554927970777
+	 Finally, we add the 2 columns to produce Column 316
+Column 317 is produced by
+	 Applying np.exp2 to Column 258
+	 Applying np.exp to Column 382
+	 Finally, we add the 2 columns to produce Column 317
+Column 318 is produced by
+	 Applying np.reciprocal to Column 571
+	 Applying np.exp2 to Column 477
+	 Finally, we add the 2 columns to produce Column 318
+Column 319 is produced by
+	 Applying np.exp to Column 173
+	 Applying np.power to Column 655
+	 The exponent for power function is 40.83798862026532
+	 Finally, we add the 2 columns to produce Column 319
+Column 320 is produced by
+	 Applying np.power to Column 288
+	 The exponent for power function is 45.984987384104905
+	 Applying np.exp to Column 664
+	 Finally, we add the 2 columns to produce Column 320
+Column 321 is produced by
+	 Applying np.reciprocal to Column 555
+	 Applying np.power to Column 505
+	 The exponent for power function is 0.40567596691727204
+	 Finally, we add the 2 columns to produce Column 321
+Column 322 is produced by
+	 Applying np.exp to Column 186
+	 Applying np.power to Column 262
+	 The exponent for power function is 12.231161685912147
+	 Finally, we add the 2 columns to produce Column 322
+Column 323 is produced by
+	 Applying np.reciprocal to Column 414
+	 Applying np.exp2 to Column 382
+	 Finally, we add the 2 columns to produce Column 323
+Column 324 is produced by
+	 Applying np.exp2 to Column 182
+	 Applying np.reciprocal to Column 387
+	 Finally, we add the 2 columns to produce Column 324
+Column 325 is produced by
+	 Applying np.power to Column 437
+	 The exponent for power function is 12.304942554372404
+	 Applying np.exp2 to Column 656
+	 Finally, we add the 2 columns to produce Column 325
+Column 326 is produced by
+	 Applying np.exp2 to Column 626
+	 Applying np.reciprocal to Column 259
+	 Finally, we add the 2 columns to produce Column 326
+Column 327 is produced by
+	 Applying np.exp2 to Column 585
+	 Applying np.exp to Column 275
+	 Finally, we add the 2 columns to produce Column 327
+Column 328 is produced by
+	 Applying np.exp to Column 155
+	 Applying np.reciprocal to Column 586
+	 Finally, we add the 2 columns to produce Column 328
+Column 329 is produced by
+	 Applying np.power to Column 623
+	 The exponent for power function is 54.65561946319279
+	 Applying np.exp2 to Column 697
+	 Finally, we add the 2 columns to produce Column 329
+Column 330 is produced by
+	 Applying np.exp2 to Column 609
+	 Applying np.exp to Column 522
+	 Finally, we add the 2 columns to produce Column 330
+Column 331 is produced by
+	 Applying np.power to Column 92
+	 The exponent for power function is 23.043932470209803
+	 Applying np.exp to Column 161
+	 Finally, we add the 2 columns to produce Column 331
+Column 332 is produced by
+	 Applying np.exp to Column 577
+	 Applying np.exp2 to Column 244
+	 Finally, we add the 2 columns to produce Column 332
+Column 333 is produced by
+	 Applying np.exp2 to Column 700
+	 Applying np.power to Column 320
+	 The exponent for power function is 1.6291242647912219
+	 Finally, we add the 2 columns to produce Column 333
+Column 334 is produced by
+	 Applying np.reciprocal to Column 327
+	 Applying np.power to Column 377
+	 The exponent for power function is 21.1997973869705
+	 Finally, we add the 2 columns to produce Column 334
+Column 335 is produced by
+	 Applying np.exp2 to Column 460
+	 Applying np.power to Column 536
+	 The exponent for power function is 65.0232329655317
+	 Finally, we add the 2 columns to produce Column 335
+Column 336 is produced by
+	 Applying np.exp to Column 644
+	 Applying np.power to Column 741
+	 The exponent for power function is 25.86928415683708
+	 Finally, we add the 2 columns to produce Column 336
+Column 337 is produced by
+	 Applying np.reciprocal to Column 221
+	 Applying np.exp2 to Column 76
+	 Finally, we add the 2 columns to produce Column 337
+Column 338 is produced by
+	 Applying np.reciprocal to Column 707
+	 Applying np.exp to Column 254
+	 Finally, we add the 2 columns to produce Column 338
+Column 339 is produced by
+	 Applying np.reciprocal to Column 240
+	 Applying np.exp to Column 342
+	 Finally, we add the 2 columns to produce Column 339
+Column 340 is produced by
+	 Applying np.exp to Column 629
+	 Applying np.exp2 to Column 79
+	 Finally, we add the 2 columns to produce Column 340
+Column 341 is produced by
+	 Applying np.reciprocal to Column 496
+	 Applying np.power to Column 732
+	 The exponent for power function is 7.409059038480271
+	 Finally, we add the 2 columns to produce Column 341
+Column 342 is produced by
+	 Applying np.power to Column 733
+	 The exponent for power function is 45.57819051122561
+	 Applying np.reciprocal to Column 132
+	 Finally, we add the 2 columns to produce Column 342
+Column 343 is produced by
+	 Applying np.exp to Column 431
+	 Applying np.reciprocal to Column 302
+	 Finally, we add the 2 columns to produce Column 343
+Column 344 is produced by
+	 Applying np.exp to Column 668
+	 Applying np.reciprocal to Column 16
+	 Finally, we add the 2 columns to produce Column 344
+Column 345 is produced by
+	 Applying np.exp2 to Column 297
+	 Applying np.exp to Column 356
+	 Finally, we add the 2 columns to produce Column 345
+Column 346 is produced by
+	 Applying np.exp2 to Column 16
+	 Applying np.power to Column 678
+	 The exponent for power function is 48.46845741614125
+	 Finally, we add the 2 columns to produce Column 346
+Column 347 is produced by
+	 Applying np.exp to Column 224
+	 Applying np.exp2 to Column 390
+	 Finally, we add the 2 columns to produce Column 347
+Column 348 is produced by
+	 Applying np.exp2 to Column 391
+	 Applying np.power to Column 188
+	 The exponent for power function is 87.43274778603703
+	 Finally, we add the 2 columns to produce Column 348
+Column 349 is produced by
+	 Applying np.exp2 to Column 458
+	 Applying np.reciprocal to Column 228
+	 Finally, we add the 2 columns to produce Column 349
+Column 350 is produced by
+	 Applying np.power to Column 421
+	 The exponent for power function is 82.14754786523017
+	 Applying np.exp to Column 751
+	 Finally, we add the 2 columns to produce Column 350
+Column 351 is produced by
+	 Applying np.reciprocal to Column 217
+	 Applying np.exp to Column 95
+	 Finally, we add the 2 columns to produce Column 351
+Column 352 is produced by
+	 Applying np.power to Column 677
+	 The exponent for power function is 7.499461786630093
+	 Applying np.reciprocal to Column 549
+	 Finally, we add the 2 columns to produce Column 352
+Column 353 is produced by
+	 Applying np.exp to Column 549
+	 Applying np.reciprocal to Column 134
+	 Finally, we add the 2 columns to produce Column 353
+Column 354 is produced by
+	 Applying np.exp2 to Column 471
+	 Applying np.exp to Column 675
+	 Finally, we add the 2 columns to produce Column 354
+Column 355 is produced by
+	 Applying np.exp to Column 668
+	 Applying np.exp2 to Column 105
+	 Finally, we add the 2 columns to produce Column 355
+Column 356 is produced by
+	 Applying np.reciprocal to Column 176
+	 Applying np.power to Column 595
+	 The exponent for power function is 64.27421927001487
+	 Finally, we add the 2 columns to produce Column 356
+Column 357 is produced by
+	 Applying np.exp to Column 276
+	 Applying np.power to Column 772
+	 The exponent for power function is 23.078565982382333
+	 Finally, we add the 2 columns to produce Column 357
+Column 358 is produced by
+	 Applying np.exp to Column 772
+	 Applying np.exp2 to Column 205
+	 Finally, we add the 2 columns to produce Column 358
+Column 359 is produced by
+	 Applying np.reciprocal to Column 401
+	 Applying np.exp2 to Column 660
+	 Finally, we add the 2 columns to produce Column 359
+Column 360 is produced by
+	 Applying np.exp to Column 572
+	 Applying np.power to Column 18
+	 The exponent for power function is 28.97118915368515
+	 Finally, we add the 2 columns to produce Column 360
+Column 361 is produced by
+	 Applying np.exp2 to Column 71
+	 Applying np.power to Column 26
+	 The exponent for power function is 15.725113376255633
+	 Finally, we add the 2 columns to produce Column 361
+Column 362 is produced by
+	 Applying np.reciprocal to Column 394
+	 Applying np.exp2 to Column 500
+	 Finally, we add the 2 columns to produce Column 362
+Column 363 is produced by
+	 Applying np.power to Column 574
+	 The exponent for power function is 34.38932602355809
+	 Applying np.exp to Column 8
+	 Finally, we add the 2 columns to produce Column 363
+Column 364 is produced by
+	 Applying np.exp to Column 748
+	 Applying np.power to Column 336
+	 The exponent for power function is 0.7231382171058609
+	 Finally, we add the 2 columns to produce Column 364
+Column 365 is produced by
+	 Applying np.exp to Column 405
+	 Applying np.exp2 to Column 299
+	 Finally, we add the 2 columns to produce Column 365
+Column 366 is produced by
+	 Applying np.reciprocal to Column 55
+	 Applying np.power to Column 626
+	 The exponent for power function is 28.59779690323307
+	 Finally, we add the 2 columns to produce Column 366
+Column 367 is produced by
+	 Applying np.reciprocal to Column 655
+	 Applying np.exp2 to Column 301
+	 Finally, we add the 2 columns to produce Column 367
+Column 368 is produced by
+	 Applying np.exp to Column 468
+	 Applying np.reciprocal to Column 587
+	 Finally, we add the 2 columns to produce Column 368
+Column 369 is produced by
+	 Applying np.reciprocal to Column 397
+	 Applying np.exp2 to Column 697
+	 Finally, we add the 2 columns to produce Column 369
+Column 370 is produced by
+	 Applying np.power to Column 572
+	 The exponent for power function is 9.449193921894256
+	 Applying np.reciprocal to Column 560
+	 Finally, we add the 2 columns to produce Column 370
+Column 371 is produced by
+	 Applying np.reciprocal to Column 604
+	 Applying np.exp2 to Column 267
+	 Finally, we add the 2 columns to produce Column 371
+Column 372 is produced by
+	 Applying np.power to Column 565
+	 The exponent for power function is 3.497092863801659
+	 Applying np.reciprocal to Column 698
+	 Finally, we add the 2 columns to produce Column 372
+Column 373 is produced by
+	 Applying np.exp to Column 1
+	 Applying np.reciprocal to Column 300
+	 Finally, we add the 2 columns to produce Column 373
+Column 374 is produced by
+	 Applying np.power to Column 658
+	 The exponent for power function is 18.415443031627085
+	 Applying np.exp to Column 8
+	 Finally, we add the 2 columns to produce Column 374
+Column 375 is produced by
+	 Applying np.reciprocal to Column 454
+	 Applying np.exp to Column 728
+	 Finally, we add the 2 columns to produce Column 375
+Column 376 is produced by
+	 Applying np.reciprocal to Column 220
+	 Applying np.exp2 to Column 731
+	 Finally, we add the 2 columns to produce Column 376
+Column 377 is produced by
+	 Applying np.power to Column 98
+	 The exponent for power function is 43.477853055343914
+	 Applying np.reciprocal to Column 125
+	 Finally, we add the 2 columns to produce Column 377
+Column 378 is produced by
+	 Applying np.exp2 to Column 462
+	 Applying np.power to Column 764
+	 The exponent for power function is 7.741485981621104
+	 Finally, we add the 2 columns to produce Column 378
+Column 379 is produced by
+	 Applying np.reciprocal to Column 652
+	 Applying np.exp2 to Column 389
+	 Finally, we add the 2 columns to produce Column 379
+Column 380 is produced by
+	 Applying np.exp2 to Column 95
+	 Applying np.exp to Column 382
+	 Finally, we add the 2 columns to produce Column 380
+Column 381 is produced by
+	 Applying np.exp to Column 647
+	 Applying np.power to Column 526
+	 The exponent for power function is 36.83576400627558
+	 Finally, we add the 2 columns to produce Column 381
+Column 382 is produced by
+	 Applying np.reciprocal to Column 212
+	 Applying np.exp2 to Column 296
+	 Finally, we add the 2 columns to produce Column 382
+Column 383 is produced by
+	 Applying np.exp2 to Column 644
+	 Applying np.power to Column 494
+	 The exponent for power function is 62.92920751723189
+	 Finally, we add the 2 columns to produce Column 383
+Column 384 is produced by
+	 Applying np.exp to Column 249
+	 Applying np.reciprocal to Column 695
+	 Finally, we add the 2 columns to produce Column 384
+Column 385 is produced by
+	 Applying np.exp to Column 553
+	 Applying np.exp2 to Column 492
+	 Finally, we add the 2 columns to produce Column 385
+Column 386 is produced by
+	 Applying np.power to Column 604
+	 The exponent for power function is 60.38348656901912
+	 Applying np.exp2 to Column 136
+	 Finally, we add the 2 columns to produce Column 386
+Column 387 is produced by
+	 Applying np.exp2 to Column 244
+	 Applying np.exp to Column 86
+	 Finally, we add the 2 columns to produce Column 387
+Column 388 is produced by
+	 Applying np.reciprocal to Column 617
+	 Applying np.exp2 to Column 366
+	 Finally, we add the 2 columns to produce Column 388
+Column 389 is produced by
+	 Applying np.reciprocal to Column 297
+	 Applying np.exp2 to Column 595
+	 Finally, we add the 2 columns to produce Column 389
+Column 390 is produced by
+	 Applying np.exp2 to Column 724
+	 Applying np.exp to Column 778
+	 Finally, we add the 2 columns to produce Column 390
+Column 391 is produced by
+	 Applying np.power to Column 404
+	 The exponent for power function is 7.611235990300818
+	 Applying np.reciprocal to Column 579
+	 Finally, we add the 2 columns to produce Column 391
+Column 392 is produced by
+	 Applying np.power to Column 232
+	 The exponent for power function is 5.935358238182581
+	 Applying np.exp to Column 682
+	 Finally, we add the 2 columns to produce Column 392
+Column 393 is produced by
+	 Applying np.exp2 to Column 464
+	 Applying np.reciprocal to Column 742
+	 Finally, we add the 2 columns to produce Column 393
+Column 394 is produced by
+	 Applying np.power to Column 230
+	 The exponent for power function is 29.422953905461164
+	 Applying np.exp2 to Column 355
+	 Finally, we add the 2 columns to produce Column 394
+Column 395 is produced by
+	 Applying np.exp2 to Column 578
+	 Applying np.exp to Column 745
+	 Finally, we add the 2 columns to produce Column 395
+Column 396 is produced by
+	 Applying np.exp to Column 111
+	 Applying np.exp2 to Column 651
+	 Finally, we add the 2 columns to produce Column 396
+Column 397 is produced by
+	 Applying np.reciprocal to Column 470
+	 Applying np.exp2 to Column 241
+	 Finally, we add the 2 columns to produce Column 397
+Column 398 is produced by
+	 Applying np.exp to Column 144
+	 Applying np.exp2 to Column 204
+	 Finally, we add the 2 columns to produce Column 398
+Column 399 is produced by
+	 Applying np.power to Column 632
+	 The exponent for power function is 29.178257271724966
+	 Applying np.reciprocal to Column 91
+	 Finally, we add the 2 columns to produce Column 399
+Column 400 is produced by
+	 Applying np.power to Column 381
+	 The exponent for power function is 10.152564707581435
+	 Applying np.exp to Column 73
+	 Finally, we add the 2 columns to produce Column 400
+Column 401 is produced by
+	 Applying np.reciprocal to Column 743
+	 Applying np.exp to Column 350
+	 Finally, we add the 2 columns to produce Column 401
+Column 402 is produced by
+	 Applying np.power to Column 32
+	 The exponent for power function is 56.72876594793438
+	 Applying np.reciprocal to Column 535
+	 Finally, we add the 2 columns to produce Column 402
+Column 403 is produced by
+	 Applying np.exp to Column 459
+	 Applying np.exp2 to Column 537
+	 Finally, we add the 2 columns to produce Column 403
+Column 404 is produced by
+	 Applying np.exp to Column 589
+	 Applying np.reciprocal to Column 713
+	 Finally, we add the 2 columns to produce Column 404
+Column 405 is produced by
+	 Applying np.exp to Column 583
+	 Applying np.exp2 to Column 319
+	 Finally, we add the 2 columns to produce Column 405
+Column 406 is produced by
+	 Applying np.power to Column 534
+	 The exponent for power function is 74.04715324817779
+	 Applying np.reciprocal to Column 626
+	 Finally, we add the 2 columns to produce Column 406
+Column 407 is produced by
+	 Applying np.exp2 to Column 163
+	 Applying np.reciprocal to Column 244
+	 Finally, we add the 2 columns to produce Column 407
+Column 408 is produced by
+	 Applying np.exp2 to Column 436
+	 Applying np.power to Column 328
+	 The exponent for power function is 0.31948518158974737
+	 Finally, we add the 2 columns to produce Column 408
+Column 409 is produced by
+	 Applying np.exp to Column 396
+	 Applying np.exp2 to Column 569
+	 Finally, we add the 2 columns to produce Column 409
+Column 410 is produced by
+	 Applying np.exp2 to Column 203
+	 Applying np.reciprocal to Column 774
+	 Finally, we add the 2 columns to produce Column 410
+Column 411 is produced by
+	 Applying np.reciprocal to Column 722
+	 Applying np.exp to Column 322
+	 Finally, we add the 2 columns to produce Column 411
+Column 412 is produced by
+	 Applying np.exp to Column 565
+	 Applying np.power to Column 679
+	 The exponent for power function is 0.5210714158170051
+	 Finally, we add the 2 columns to produce Column 412
+Column 413 is produced by
+	 Applying np.exp2 to Column 185
+	 Applying np.reciprocal to Column 715
+	 Finally, we add the 2 columns to produce Column 413
+Column 414 is produced by
+	 Applying np.power to Column 392
+	 The exponent for power function is 4.672376971845937
+	 Applying np.exp2 to Column 624
+	 Finally, we add the 2 columns to produce Column 414
+Column 415 is produced by
+	 Applying np.exp2 to Column 354
+	 Applying np.reciprocal to Column 147
+	 Finally, we add the 2 columns to produce Column 415
+Column 416 is produced by
+	 Applying np.exp2 to Column 466
+	 Applying np.power to Column 479
+	 The exponent for power function is 13.894596335416722
+	 Finally, we add the 2 columns to produce Column 416
+Column 417 is produced by
+	 Applying np.power to Column 652
+	 The exponent for power function is 53.955731469424435
+	 Applying np.exp to Column 126
+	 Finally, we add the 2 columns to produce Column 417
+Column 418 is produced by
+	 Applying np.power to Column 545
+	 The exponent for power function is 57.950597174459894
+	 Applying np.exp to Column 207
+	 Finally, we add the 2 columns to produce Column 418
+Column 419 is produced by
+	 Applying np.power to Column 204
+	 The exponent for power function is 66.09981943606024
+	 Applying np.exp2 to Column 525
+	 Finally, we add the 2 columns to produce Column 419
+Column 420 is produced by
+	 Applying np.exp to Column 84
+	 Applying np.exp2 to Column 269
+	 Finally, we add the 2 columns to produce Column 420
+Column 421 is produced by
+	 Applying np.exp2 to Column 641
+	 Applying np.exp to Column 778
+	 Finally, we add the 2 columns to produce Column 421
+Column 422 is produced by
+	 Applying np.exp to Column 112
+	 Applying np.reciprocal to Column 527
+	 Finally, we add the 2 columns to produce Column 422
+Column 423 is produced by
+	 Applying np.power to Column 537
+	 The exponent for power function is 53.64694529729687
+	 Applying np.reciprocal to Column 610
+	 Finally, we add the 2 columns to produce Column 423
+Column 424 is produced by
+	 Applying np.exp to Column 599
+	 Applying np.reciprocal to Column 20
+	 Finally, we add the 2 columns to produce Column 424
+Column 425 is produced by
+	 Applying np.reciprocal to Column 601
+	 Applying np.power to Column 252
+	 The exponent for power function is 5.795854398575688
+	 Finally, we add the 2 columns to produce Column 425
+Column 426 is produced by
+	 Applying np.reciprocal to Column 275
+	 Applying np.exp to Column 552
+	 Finally, we add the 2 columns to produce Column 426
+Column 427 is produced by
+	 Applying np.reciprocal to Column 30
+	 Applying np.exp to Column 735
+	 Finally, we add the 2 columns to produce Column 427
+Column 428 is produced by
+	 Applying np.exp to Column 553
+	 Applying np.reciprocal to Column 673
+	 Finally, we add the 2 columns to produce Column 428
+Column 429 is produced by
+	 Applying np.reciprocal to Column 303
+	 Applying np.power to Column 415
+	 The exponent for power function is 37.55860184701261
+	 Finally, we add the 2 columns to produce Column 429
+Column 430 is produced by
+	 Applying np.reciprocal to Column 200
+	 Applying np.exp to Column 202
+	 Finally, we add the 2 columns to produce Column 430
+Column 431 is produced by
+	 Applying np.exp2 to Column 759
+	 Applying np.reciprocal to Column 693
+	 Finally, we add the 2 columns to produce Column 431
+Column 432 is produced by
+	 Applying np.exp to Column 172
+	 Applying np.power to Column 33
+	 The exponent for power function is 1.0594866329567454
+	 Finally, we add the 2 columns to produce Column 432
+Column 433 is produced by
+	 Applying np.power to Column 249
+	 The exponent for power function is 1.8238521135146737
+	 Applying np.exp to Column 774
+	 Finally, we add the 2 columns to produce Column 433
+Column 434 is produced by
+	 Applying np.exp2 to Column 623
+	 Applying np.exp to Column 735
+	 Finally, we add the 2 columns to produce Column 434
+Column 435 is produced by
+	 Applying np.reciprocal to Column 334
+	 Applying np.power to Column 63
+	 The exponent for power function is 71.52787195202966
+	 Finally, we add the 2 columns to produce Column 435
+Column 436 is produced by
+	 Applying np.exp to Column 518
+	 Applying np.power to Column 465
+	 The exponent for power function is 2.891719235601627
+	 Finally, we add the 2 columns to produce Column 436
+Column 437 is produced by
+	 Applying np.power to Column 660
+	 The exponent for power function is 0.8802867015514195
+	 Applying np.exp to Column 289
+	 Finally, we add the 2 columns to produce Column 437
+Column 438 is produced by
+	 Applying np.exp to Column 421
+	 Applying np.exp2 to Column 766
+	 Finally, we add the 2 columns to produce Column 438
+Column 439 is produced by
+	 Applying np.reciprocal to Column 85
+	 Applying np.exp to Column 350
+	 Finally, we add the 2 columns to produce Column 439
+Column 440 is produced by
+	 Applying np.reciprocal to Column 96
+	 Applying np.power to Column 341
+	 The exponent for power function is 7.101418804883048
+	 Finally, we add the 2 columns to produce Column 440
+Column 441 is produced by
+	 Applying np.reciprocal to Column 742
+	 Applying np.exp2 to Column 716
+	 Finally, we add the 2 columns to produce Column 441
+Column 442 is produced by
+	 Applying np.exp2 to Column 270
+	 Applying np.power to Column 70
+	 The exponent for power function is 26.455073873522586
+	 Finally, we add the 2 columns to produce Column 442
+Column 443 is produced by
+	 Applying np.reciprocal to Column 73
+	 Applying np.exp to Column 286
+	 Finally, we add the 2 columns to produce Column 443
+Column 444 is produced by
+	 Applying np.reciprocal to Column 293
+	 Applying np.exp to Column 318
+	 Finally, we add the 2 columns to produce Column 444
+Column 445 is produced by
+	 Applying np.reciprocal to Column 654
+	 Applying np.exp to Column 94
+	 Finally, we add the 2 columns to produce Column 445
+Column 446 is produced by
+	 Applying np.power to Column 696
+	 The exponent for power function is 0.44415124660729566
+	 Applying np.exp to Column 549
+	 Finally, we add the 2 columns to produce Column 446
+Column 447 is produced by
+	 Applying np.exp2 to Column 238
+	 Applying np.reciprocal to Column 239
+	 Finally, we add the 2 columns to produce Column 447
+Column 448 is produced by
+	 Applying np.reciprocal to Column 399
+	 Applying np.exp to Column 768
+	 Finally, we add the 2 columns to produce Column 448
+Column 449 is produced by
+	 Applying np.power to Column 79
+	 The exponent for power function is 0.8950023462447881
+	 Applying np.reciprocal to Column 80
+	 Finally, we add the 2 columns to produce Column 449
+Column 450 is produced by
+	 Applying np.exp to Column 274
+	 Applying np.reciprocal to Column 8
+	 Finally, we add the 2 columns to produce Column 450
+Column 451 is produced by
+	 Applying np.reciprocal to Column 586
+	 Applying np.exp2 to Column 57
+	 Finally, we add the 2 columns to produce Column 451
+Column 452 is produced by
+	 Applying np.power to Column 238
+	 The exponent for power function is 32.16572586619051
+	 Applying np.reciprocal to Column 762
+	 Finally, we add the 2 columns to produce Column 452
+Column 453 is produced by
+	 Applying np.reciprocal to Column 551
+	 Applying np.exp2 to Column 52
+	 Finally, we add the 2 columns to produce Column 453
+Column 454 is produced by
+	 Applying np.exp2 to Column 67
+	 Applying np.power to Column 151
+	 The exponent for power function is 13.506189563563783
+	 Finally, we add the 2 columns to produce Column 454
+Column 455 is produced by
+	 Applying np.exp2 to Column 35
+	 Applying np.reciprocal to Column 769
+	 Finally, we add the 2 columns to produce Column 455
+Column 456 is produced by
+	 Applying np.exp2 to Column 510
+	 Applying np.reciprocal to Column 549
+	 Finally, we add the 2 columns to produce Column 456
+Column 457 is produced by
+	 Applying np.exp2 to Column 164
+	 Applying np.reciprocal to Column 253
+	 Finally, we add the 2 columns to produce Column 457
+Column 458 is produced by
+	 Applying np.reciprocal to Column 160
+	 Applying np.power to Column 715
+	 The exponent for power function is 24.02779634466415
+	 Finally, we add the 2 columns to produce Column 458
+Column 459 is produced by
+	 Applying np.power to Column 430
+	 The exponent for power function is 5.420225938999371
+	 Applying np.reciprocal to Column 29
+	 Finally, we add the 2 columns to produce Column 459
+Column 460 is produced by
+	 Applying np.exp2 to Column 450
+	 Applying np.exp to Column 345
+	 Finally, we add the 2 columns to produce Column 460
+Column 461 is produced by
+	 Applying np.exp2 to Column 127
+	 Applying np.reciprocal to Column 610
+	 Finally, we add the 2 columns to produce Column 461
+Column 462 is produced by
+	 Applying np.power to Column 537
+	 The exponent for power function is 65.99170815806222
+	 Applying np.exp to Column 570
+	 Finally, we add the 2 columns to produce Column 462
+Column 463 is produced by
+	 Applying np.reciprocal to Column 708
+	 Applying np.exp to Column 566
+	 Finally, we add the 2 columns to produce Column 463
+Column 464 is produced by
+	 Applying np.exp to Column 690
+	 Applying np.reciprocal to Column 439
+	 Finally, we add the 2 columns to produce Column 464
+Column 465 is produced by
+	 Applying np.reciprocal to Column 463
+	 Applying np.power to Column 233
+	 The exponent for power function is 13.42747413217027
+	 Finally, we add the 2 columns to produce Column 465
+Column 466 is produced by
+	 Applying np.power to Column 603
+	 The exponent for power function is 26.252497912594585
+	 Applying np.exp2 to Column 328
+	 Finally, we add the 2 columns to produce Column 466
+Column 467 is produced by
+	 Applying np.reciprocal to Column 477
+	 Applying np.power to Column 755
+	 The exponent for power function is 21.35768757667627
+	 Finally, we add the 2 columns to produce Column 467
+Column 468 is produced by
+	 Applying np.reciprocal to Column 209
+	 Applying np.exp2 to Column 272
+	 Finally, we add the 2 columns to produce Column 468
+Column 469 is produced by
+	 Applying np.power to Column 731
+	 The exponent for power function is 16.342977225086273
+	 Applying np.exp2 to Column 171
+	 Finally, we add the 2 columns to produce Column 469
+Column 470 is produced by
+	 Applying np.exp2 to Column 456
+	 Applying np.exp to Column 628
+	 Finally, we add the 2 columns to produce Column 470
+Column 471 is produced by
+	 Applying np.exp2 to Column 133
+	 Applying np.reciprocal to Column 452
+	 Finally, we add the 2 columns to produce Column 471
+Column 472 is produced by
+	 Applying np.reciprocal to Column 5
+	 Applying np.exp2 to Column 28
+	 Finally, we add the 2 columns to produce Column 472
+Column 473 is produced by
+	 Applying np.reciprocal to Column 652
+	 Applying np.exp to Column 638
+	 Finally, we add the 2 columns to produce Column 473
+Column 474 is produced by
+	 Applying np.reciprocal to Column 459
+	 Applying np.exp to Column 615
+	 Finally, we add the 2 columns to produce Column 474
+Column 475 is produced by
+	 Applying np.exp to Column 132
+	 Applying np.power to Column 278
+	 The exponent for power function is 3.142910652889921
+	 Finally, we add the 2 columns to produce Column 475
+Column 476 is produced by
+	 Applying np.power to Column 135
+	 The exponent for power function is 27.68378302060306
+	 Applying np.reciprocal to Column 431
+	 Finally, we add the 2 columns to produce Column 476
+Column 477 is produced by
+	 Applying np.power to Column 540
+	 The exponent for power function is 80.51144559883718
+	 Applying np.exp to Column 498
+	 Finally, we add the 2 columns to produce Column 477
+Column 478 is produced by
+	 Applying np.exp to Column 448
+	 Applying np.reciprocal to Column 410
+	 Finally, we add the 2 columns to produce Column 478
+Column 479 is produced by
+	 Applying np.exp2 to Column 673
+	 Applying np.reciprocal to Column 477
+	 Finally, we add the 2 columns to produce Column 479
+Column 480 is produced by
+	 Applying np.exp to Column 540
+	 Applying np.power to Column 639
+	 The exponent for power function is 16.364025336669417
+	 Finally, we add the 2 columns to produce Column 480
+Column 481 is produced by
+	 Applying np.exp to Column 91
+	 Applying np.power to Column 378
+	 The exponent for power function is 0.41148313501026446
+	 Finally, we add the 2 columns to produce Column 481
+Column 482 is produced by
+	 Applying np.power to Column 567
+	 The exponent for power function is 1.8934037705676021
+	 Applying np.reciprocal to Column 637
+	 Finally, we add the 2 columns to produce Column 482
+Column 483 is produced by
+	 Applying np.reciprocal to Column 302
+	 Applying np.exp to Column 333
+	 Finally, we add the 2 columns to produce Column 483
+Column 484 is produced by
+	 Applying np.reciprocal to Column 186
+	 Applying np.exp to Column 146
+	 Finally, we add the 2 columns to produce Column 484
+Column 485 is produced by
+	 Applying np.exp to Column 471
+	 Applying np.reciprocal to Column 573
+	 Finally, we add the 2 columns to produce Column 485
+Column 486 is produced by
+	 Applying np.power to Column 525
+	 The exponent for power function is 4.278077452671976
+	 Applying np.reciprocal to Column 293
+	 Finally, we add the 2 columns to produce Column 486
+Column 487 is produced by
+	 Applying np.exp to Column 256
+	 Applying np.exp2 to Column 5
+	 Finally, we add the 2 columns to produce Column 487
+Column 488 is produced by
+	 Applying np.power to Column 469
+	 The exponent for power function is 18.091523587469982
+	 Applying np.exp2 to Column 189
+	 Finally, we add the 2 columns to produce Column 488
+Column 489 is produced by
+	 Applying np.power to Column 346
+	 The exponent for power function is 29.752854274223804
+	 Applying np.exp to Column 196
+	 Finally, we add the 2 columns to produce Column 489
+Column 490 is produced by
+	 Applying np.power to Column 365
+	 The exponent for power function is 13.224077987441138
+	 Applying np.exp2 to Column 481
+	 Finally, we add the 2 columns to produce Column 490
+Column 491 is produced by
+	 Applying np.power to Column 701
+	 The exponent for power function is 16.00351542531173
+	 Applying np.reciprocal to Column 506
+	 Finally, we add the 2 columns to produce Column 491
+Column 492 is produced by
+	 Applying np.power to Column 373
+	 The exponent for power function is 0.7002750170966466
+	 Applying np.exp to Column 303
+	 Finally, we add the 2 columns to produce Column 492
+Column 493 is produced by
+	 Applying np.exp2 to Column 384
+	 Applying np.reciprocal to Column 559
+	 Finally, we add the 2 columns to produce Column 493
+Column 494 is produced by
+	 Applying np.reciprocal to Column 118
+	 Applying np.exp2 to Column 162
+	 Finally, we add the 2 columns to produce Column 494
+Column 495 is produced by
+	 Applying np.power to Column 418
+	 The exponent for power function is 20.905034356518758
+	 Applying np.exp to Column 120
+	 Finally, we add the 2 columns to produce Column 495
+Column 496 is produced by
+	 Applying np.reciprocal to Column 413
+	 Applying np.exp2 to Column 746
+	 Finally, we add the 2 columns to produce Column 496
+Column 497 is produced by
+	 Applying np.exp to Column 730
+	 Applying np.reciprocal to Column 133
+	 Finally, we add the 2 columns to produce Column 497
+Column 498 is produced by
+	 Applying np.power to Column 648
+	 The exponent for power function is 46.74914420938371
+	 Applying np.exp to Column 446
+	 Finally, we add the 2 columns to produce Column 498
+Column 499 is produced by
+	 Applying np.exp2 to Column 241
+	 Applying np.power to Column 231
+	 The exponent for power function is 44.192069999138454
+	 Finally, we add the 2 columns to produce Column 499
+Column 500 is produced by
+	 Applying np.reciprocal to Column 188
+	 Applying np.exp2 to Column 676
+	 Finally, we add the 2 columns to produce Column 500
+Column 501 is produced by
+	 Applying np.power to Column 675
+	 The exponent for power function is 2.6853619131438258
+	 Applying np.reciprocal to Column 212
+	 Finally, we add the 2 columns to produce Column 501
+Column 502 is produced by
+	 Applying np.exp2 to Column 51
+	 Applying np.reciprocal to Column 56
+	 Finally, we add the 2 columns to produce Column 502
+Column 503 is produced by
+	 Applying np.exp2 to Column 438
+	 Applying np.exp to Column 75
+	 Finally, we add the 2 columns to produce Column 503
+Column 504 is produced by
+	 Applying np.exp2 to Column 231
+	 Applying np.reciprocal to Column 53
+	 Finally, we add the 2 columns to produce Column 504
+Column 505 is produced by
+	 Applying np.reciprocal to Column 465
+	 Applying np.exp2 to Column 282
+	 Finally, we add the 2 columns to produce Column 505
+Column 506 is produced by
+	 Applying np.reciprocal to Column 333
+	 Applying np.exp2 to Column 20
+	 Finally, we add the 2 columns to produce Column 506
+Column 507 is produced by
+	 Applying np.power to Column 198
+	 The exponent for power function is 51.2443712128679
+	 Applying np.reciprocal to Column 318
+	 Finally, we add the 2 columns to produce Column 507
+Column 508 is produced by
+	 Applying np.exp2 to Column 486
+	 Applying np.power to Column 22
+	 The exponent for power function is 39.28084108544212
+	 Finally, we add the 2 columns to produce Column 508
+Column 509 is produced by
+	 Applying np.reciprocal to Column 572
+	 Applying np.exp to Column 77
+	 Finally, we add the 2 columns to produce Column 509
+Column 510 is produced by
+	 Applying np.exp to Column 109
+	 Applying np.power to Column 292
+	 The exponent for power function is 60.92057777872824
+	 Finally, we add the 2 columns to produce Column 510
+Column 511 is produced by
+	 Applying np.exp2 to Column 491
+	 Applying np.reciprocal to Column 170
+	 Finally, we add the 2 columns to produce Column 511
+Column 512 is produced by
+	 Applying np.exp2 to Column 493
+	 Applying np.power to Column 511
+	 The exponent for power function is 31.80923994285564
+	 Finally, we add the 2 columns to produce Column 512
+Column 513 is produced by
+	 Applying np.reciprocal to Column 223
+	 Applying np.power to Column 581
+	 The exponent for power function is 35.27135313772319
+	 Finally, we add the 2 columns to produce Column 513
+Column 514 is produced by
+	 Applying np.exp to Column 574
+	 Applying np.reciprocal to Column 670
+	 Finally, we add the 2 columns to produce Column 514
+Column 515 is produced by
+	 Applying np.power to Column 521
+	 The exponent for power function is 0.35083471568072144
+	 Applying np.reciprocal to Column 677
+	 Finally, we add the 2 columns to produce Column 515
+Column 516 is produced by
+	 Applying np.exp to Column 756
+	 Applying np.power to Column 238
+	 The exponent for power function is 32.428932441111655
+	 Finally, we add the 2 columns to produce Column 516
+Column 517 is produced by
+	 Applying np.exp to Column 376
+	 Applying np.reciprocal to Column 527
+	 Finally, we add the 2 columns to produce Column 517
+Column 518 is produced by
+	 Applying np.power to Column 8
+	 The exponent for power function is 9.10808694495576
+	 Applying np.reciprocal to Column 644
+	 Finally, we add the 2 columns to produce Column 518
+Column 519 is produced by
+	 Applying np.exp2 to Column 373
+	 Applying np.exp to Column 540
+	 Finally, we add the 2 columns to produce Column 519
+Column 520 is produced by
+	 Applying np.power to Column 520
+	 The exponent for power function is 2.9552047391540146
+	 Applying np.exp to Column 544
+	 Finally, we add the 2 columns to produce Column 520
+Column 521 is produced by
+	 Applying np.reciprocal to Column 349
+	 Applying np.power to Column 446
+	 The exponent for power function is 62.84754888777531
+	 Finally, we add the 2 columns to produce Column 521
+Column 522 is produced by
+	 Applying np.exp2 to Column 750
+	 Applying np.power to Column 581
+	 The exponent for power function is 7.8995389196479415
+	 Finally, we add the 2 columns to produce Column 522
+Column 523 is produced by
+	 Applying np.exp to Column 130
+	 Applying np.exp2 to Column 258
+	 Finally, we add the 2 columns to produce Column 523
+Column 524 is produced by
+	 Applying np.exp2 to Column 680
+	 Applying np.power to Column 620
+	 The exponent for power function is 5.472449468850719
+	 Finally, we add the 2 columns to produce Column 524
+Column 525 is produced by
+	 Applying np.reciprocal to Column 543
+	 Applying np.power to Column 167
+	 The exponent for power function is 25.175755201331093
+	 Finally, we add the 2 columns to produce Column 525
+Column 526 is produced by
+	 Applying np.exp2 to Column 208
+	 Applying np.reciprocal to Column 55
+	 Finally, we add the 2 columns to produce Column 526
+Column 527 is produced by
+	 Applying np.power to Column 590
+	 The exponent for power function is 34.57420071548589
+	 Applying np.exp to Column 361
+	 Finally, we add the 2 columns to produce Column 527
+Column 528 is produced by
+	 Applying np.power to Column 405
+	 The exponent for power function is 10.85999448972599
+	 Applying np.exp to Column 153
+	 Finally, we add the 2 columns to produce Column 528
+Column 529 is produced by
+	 Applying np.power to Column 673
+	 The exponent for power function is 51.976637122385796
+	 Applying np.exp2 to Column 95
+	 Finally, we add the 2 columns to produce Column 529
+Column 530 is produced by
+	 Applying np.reciprocal to Column 17
+	 Applying np.exp to Column 467
+	 Finally, we add the 2 columns to produce Column 530
+Column 531 is produced by
+	 Applying np.reciprocal to Column 643
+	 Applying np.power to Column 651
+	 The exponent for power function is 25.652442510621547
+	 Finally, we add the 2 columns to produce Column 531
+Column 532 is produced by
+	 Applying np.exp to Column 433
+	 Applying np.power to Column 339
+	 The exponent for power function is 0.5641589512573946
+	 Finally, we add the 2 columns to produce Column 532
+Column 533 is produced by
+	 Applying np.reciprocal to Column 319
+	 Applying np.exp to Column 191
+	 Finally, we add the 2 columns to produce Column 533
+Column 534 is produced by
+	 Applying np.reciprocal to Column 525
+	 Applying np.exp to Column 540
+	 Finally, we add the 2 columns to produce Column 534
+Column 535 is produced by
+	 Applying np.power to Column 675
+	 The exponent for power function is 2.222024023453489
+	 Applying np.exp to Column 563
+	 Finally, we add the 2 columns to produce Column 535
+Column 536 is produced by
+	 Applying np.reciprocal to Column 677
+	 Applying np.power to Column 202
+	 The exponent for power function is 16.496391564203748
+	 Finally, we add the 2 columns to produce Column 536
+Column 537 is produced by
+	 Applying np.reciprocal to Column 256
+	 Applying np.exp2 to Column 704
+	 Finally, we add the 2 columns to produce Column 537
+Column 538 is produced by
+	 Applying np.reciprocal to Column 210
+	 Applying np.exp to Column 73
+	 Finally, we add the 2 columns to produce Column 538
+Column 539 is produced by
+	 Applying np.exp2 to Column 778
+	 Applying np.exp to Column 350
+	 Finally, we add the 2 columns to produce Column 539
+Column 540 is produced by
+	 Applying np.exp2 to Column 682
+	 Applying np.power to Column 169
+	 The exponent for power function is 70.46730740215278
+	 Finally, we add the 2 columns to produce Column 540
+Column 541 is produced by
+	 Applying np.exp to Column 713
+	 Applying np.exp2 to Column 32
+	 Finally, we add the 2 columns to produce Column 541
+Column 542 is produced by
+	 Applying np.reciprocal to Column 440
+	 Applying np.power to Column 15
+	 The exponent for power function is 48.46872247077556
+	 Finally, we add the 2 columns to produce Column 542
+Column 543 is produced by
+	 Applying np.power to Column 453
+	 The exponent for power function is 4.959348576694866
+	 Applying np.exp to Column 333
+	 Finally, we add the 2 columns to produce Column 543
+Column 544 is produced by
+	 Applying np.exp2 to Column 248
+	 Applying np.exp to Column 80
+	 Finally, we add the 2 columns to produce Column 544
+Column 545 is produced by
+	 Applying np.exp2 to Column 572
+	 Applying np.exp to Column 170
+	 Finally, we add the 2 columns to produce Column 545
+Column 546 is produced by
+	 Applying np.exp to Column 750
+	 Applying np.exp2 to Column 302
+	 Finally, we add the 2 columns to produce Column 546
+Column 547 is produced by
+	 Applying np.reciprocal to Column 315
+	 Applying np.exp to Column 645
+	 Finally, we add the 2 columns to produce Column 547
+Column 548 is produced by
+	 Applying np.exp to Column 405
+	 Applying np.reciprocal to Column 368
+	 Finally, we add the 2 columns to produce Column 548
+Column 549 is produced by
+	 Applying np.exp to Column 747
+	 Applying np.power to Column 483
+	 The exponent for power function is 45.811917271306754
+	 Finally, we add the 2 columns to produce Column 549
+Column 550 is produced by
+	 Applying np.exp2 to Column 50
+	 Applying np.exp to Column 250
+	 Finally, we add the 2 columns to produce Column 550
+Column 551 is produced by
+	 Applying np.power to Column 290
+	 The exponent for power function is 3.8108346697080497
+	 Applying np.exp2 to Column 523
+	 Finally, we add the 2 columns to produce Column 551
+Column 552 is produced by
+	 Applying np.exp2 to Column 483
+	 Applying np.exp to Column 549
+	 Finally, we add the 2 columns to produce Column 552
+Column 553 is produced by
+	 Applying np.power to Column 211
+	 The exponent for power function is 24.61490608370053
+	 Applying np.exp to Column 125
+	 Finally, we add the 2 columns to produce Column 553
+Column 554 is produced by
+	 Applying np.exp to Column 568
+	 Applying np.exp2 to Column 277
+	 Finally, we add the 2 columns to produce Column 554
+Column 555 is produced by
+	 Applying np.exp2 to Column 146
+	 Applying np.reciprocal to Column 684
+	 Finally, we add the 2 columns to produce Column 555
+Column 556 is produced by
+	 Applying np.exp2 to Column 629
+	 Applying np.exp to Column 554
+	 Finally, we add the 2 columns to produce Column 556
+Column 557 is produced by
+	 Applying np.exp2 to Column 750
+	 Applying np.reciprocal to Column 333
+	 Finally, we add the 2 columns to produce Column 557
+Column 558 is produced by
+	 Applying np.reciprocal to Column 450
+	 Applying np.exp2 to Column 480
+	 Finally, we add the 2 columns to produce Column 558
+Column 559 is produced by
+	 Applying np.reciprocal to Column 35
+	 Applying np.exp to Column 487
+	 Finally, we add the 2 columns to produce Column 559
+Column 560 is produced by
+	 Applying np.reciprocal to Column 433
+	 Applying np.power to Column 569
+	 The exponent for power function is 0.3029329398225412
+	 Finally, we add the 2 columns to produce Column 560
+Column 561 is produced by
+	 Applying np.exp to Column 26
+	 Applying np.power to Column 357
+	 The exponent for power function is 17.46189355323348
+	 Finally, we add the 2 columns to produce Column 561
+Column 562 is produced by
+	 Applying np.exp to Column 93
+	 Applying np.power to Column 209
+	 The exponent for power function is 3.553069992255045
+	 Finally, we add the 2 columns to produce Column 562
+Column 563 is produced by
+	 Applying np.exp to Column 16
+	 Applying np.exp2 to Column 251
+	 Finally, we add the 2 columns to produce Column 563
+Column 564 is produced by
+	 Applying np.power to Column 389
+	 The exponent for power function is 4.800045050894271
+	 Applying np.reciprocal to Column 395
+	 Finally, we add the 2 columns to produce Column 564
+Column 565 is produced by
+	 Applying np.power to Column 90
+	 The exponent for power function is 5.773086500990858
+	 Applying np.reciprocal to Column 58
+	 Finally, we add the 2 columns to produce Column 565
+Column 566 is produced by
+	 Applying np.power to Column 533
+	 The exponent for power function is 57.918281149434456
+	 Applying np.exp to Column 462
+	 Finally, we add the 2 columns to produce Column 566
+Column 567 is produced by
+	 Applying np.power to Column 291
+	 The exponent for power function is 5.808960403387532
+	 Applying np.exp to Column 20
+	 Finally, we add the 2 columns to produce Column 567
+Column 568 is produced by
+	 Applying np.power to Column 675
+	 The exponent for power function is 12.313306629484194
+	 Applying np.exp to Column 379
+	 Finally, we add the 2 columns to produce Column 568
+Column 569 is produced by
+	 Applying np.exp to Column 450
+	 Applying np.exp2 to Column 52
+	 Finally, we add the 2 columns to produce Column 569
+Column 570 is produced by
+	 Applying np.exp2 to Column 269
+	 Applying np.power to Column 349
+	 The exponent for power function is 7.652875316168085
+	 Finally, we add the 2 columns to produce Column 570
+Column 571 is produced by
+	 Applying np.exp to Column 332
+	 Applying np.exp2 to Column 640
+	 Finally, we add the 2 columns to produce Column 571
+Column 572 is produced by
+	 Applying np.exp to Column 736
+	 Applying np.exp2 to Column 567
+	 Finally, we add the 2 columns to produce Column 572
+Column 573 is produced by
+	 Applying np.exp to Column 282
+	 Applying np.power to Column 353
+	 The exponent for power function is 34.485751092990064
+	 Finally, we add the 2 columns to produce Column 573
+Column 574 is produced by
+	 Applying np.reciprocal to Column 495
+	 Applying np.exp to Column 714
+	 Finally, we add the 2 columns to produce Column 574
+Column 575 is produced by
+	 Applying np.power to Column 587
+	 The exponent for power function is 34.51758366609154
+	 Applying np.exp2 to Column 521
+	 Finally, we add the 2 columns to produce Column 575
+Column 576 is produced by
+	 Applying np.power to Column 37
+	 The exponent for power function is 62.925839866827445
+	 Applying np.exp2 to Column 238
+	 Finally, we add the 2 columns to produce Column 576
+Column 577 is produced by
+	 Applying np.exp to Column 82
+	 Applying np.reciprocal to Column 359
+	 Finally, we add the 2 columns to produce Column 577
+Column 578 is produced by
+	 Applying np.exp to Column 207
+	 Applying np.reciprocal to Column 625
+	 Finally, we add the 2 columns to produce Column 578
+Column 579 is produced by
+	 Applying np.exp to Column 565
+	 Applying np.power to Column 401
+	 The exponent for power function is 15.871621789760383
+	 Finally, we add the 2 columns to produce Column 579
+Column 580 is produced by
+	 Applying np.exp2 to Column 150
+	 Applying np.reciprocal to Column 384
+	 Finally, we add the 2 columns to produce Column 580
+Column 581 is produced by
+	 Applying np.exp2 to Column 518
+	 Applying np.exp to Column 646
+	 Finally, we add the 2 columns to produce Column 581
+Column 582 is produced by
+	 Applying np.reciprocal to Column 504
+	 Applying np.power to Column 102
+	 The exponent for power function is 2.0792149598607423
+	 Finally, we add the 2 columns to produce Column 582
+Column 583 is produced by
+	 Applying np.exp2 to Column 491
+	 Applying np.power to Column 708
+	 The exponent for power function is 26.080155143416686
+	 Finally, we add the 2 columns to produce Column 583
+Column 584 is produced by
+	 Applying np.exp2 to Column 133
+	 Applying np.power to Column 86
+	 The exponent for power function is 3.553468746613197
+	 Finally, we add the 2 columns to produce Column 584
+Column 585 is produced by
+	 Applying np.power to Column 147
+	 The exponent for power function is 8.498461893409214
+	 Applying np.exp to Column 406
+	 Finally, we add the 2 columns to produce Column 585
+Column 586 is produced by
+	 Applying np.exp2 to Column 701
+	 Applying np.power to Column 418
+	 The exponent for power function is 83.1280442578016
+	 Finally, we add the 2 columns to produce Column 586
+Column 587 is produced by
+	 Applying np.exp to Column 332
+	 Applying np.power to Column 353
+	 The exponent for power function is 20.254323920092304
+	 Finally, we add the 2 columns to produce Column 587
+Column 588 is produced by
+	 Applying np.exp to Column 658
+	 Applying np.exp2 to Column 505
+	 Finally, we add the 2 columns to produce Column 588
+Column 589 is produced by
+	 Applying np.exp to Column 642
+	 Applying np.exp2 to Column 338
+	 Finally, we add the 2 columns to produce Column 589
+Column 590 is produced by
+	 Applying np.reciprocal to Column 234
+	 Applying np.power to Column 298
+	 The exponent for power function is 1.9354927321381936
+	 Finally, we add the 2 columns to produce Column 590
+Column 591 is produced by
+	 Applying np.power to Column 77
+	 The exponent for power function is 61.81027731444596
+	 Applying np.reciprocal to Column 29
+	 Finally, we add the 2 columns to produce Column 591
+Column 592 is produced by
+	 Applying np.reciprocal to Column 615
+	 Applying np.power to Column 493
+	 The exponent for power function is 0.3894432404972743
+	 Finally, we add the 2 columns to produce Column 592
+Column 593 is produced by
+	 Applying np.reciprocal to Column 762
+	 Applying np.exp to Column 501
+	 Finally, we add the 2 columns to produce Column 593
+Column 594 is produced by
+	 Applying np.power to Column 417
+	 The exponent for power function is 31.744545512759192
+	 Applying np.exp to Column 198
+	 Finally, we add the 2 columns to produce Column 594
+Column 595 is produced by
+	 Applying np.power to Column 704
+	 The exponent for power function is 52.97882857103797
+	 Applying np.reciprocal to Column 420
+	 Finally, we add the 2 columns to produce Column 595
+Column 596 is produced by
+	 Applying np.exp2 to Column 13
+	 Applying np.power to Column 143
+	 The exponent for power function is 12.021626516714928
+	 Finally, we add the 2 columns to produce Column 596
+Column 597 is produced by
+	 Applying np.exp2 to Column 194
+	 Applying np.exp to Column 676
+	 Finally, we add the 2 columns to produce Column 597
+Column 598 is produced by
+	 Applying np.exp2 to Column 73
+	 Applying np.reciprocal to Column 665
+	 Finally, we add the 2 columns to produce Column 598
+Column 599 is produced by
+	 Applying np.exp2 to Column 453
+	 Applying np.reciprocal to Column 376
+	 Finally, we add the 2 columns to produce Column 599
+Column 600 is produced by
+	 Applying np.power to Column 613
+	 The exponent for power function is 8.299380146468943
+	 Applying np.reciprocal to Column 371
+	 Finally, we add the 2 columns to produce Column 600
+Column 601 is produced by
+	 Applying np.exp2 to Column 450
+	 Applying np.power to Column 660
+	 The exponent for power function is 5.414541215109279
+	 Finally, we add the 2 columns to produce Column 601
+Column 602 is produced by
+	 Applying np.power to Column 706
+	 The exponent for power function is 11.958236688607085
+	 Applying np.exp to Column 137
+	 Finally, we add the 2 columns to produce Column 602
+Column 603 is produced by
+	 Applying np.power to Column 420
+	 The exponent for power function is 44.210515765872195
+	 Applying np.exp2 to Column 244
+	 Finally, we add the 2 columns to produce Column 603
+Column 604 is produced by
+	 Applying np.power to Column 392
+	 The exponent for power function is 26.530209148097914
+	 Applying np.reciprocal to Column 348
+	 Finally, we add the 2 columns to produce Column 604
+Column 605 is produced by
+	 Applying np.power to Column 83
+	 The exponent for power function is 13.262694835940767
+	 Applying np.exp2 to Column 206
+	 Finally, we add the 2 columns to produce Column 605
+Column 606 is produced by
+	 Applying np.exp to Column 295
+	 Applying np.exp2 to Column 779
+	 Finally, we add the 2 columns to produce Column 606
+Column 607 is produced by
+	 Applying np.reciprocal to Column 149
+	 Applying np.exp2 to Column 756
+	 Finally, we add the 2 columns to produce Column 607
+Column 608 is produced by
+	 Applying np.reciprocal to Column 322
+	 Applying np.exp2 to Column 720
+	 Finally, we add the 2 columns to produce Column 608
+Column 609 is produced by
+	 Applying np.reciprocal to Column 344
+	 Applying np.exp to Column 21
+	 Finally, we add the 2 columns to produce Column 609
+Column 610 is produced by
+	 Applying np.exp2 to Column 69
+	 Applying np.reciprocal to Column 610
+	 Finally, we add the 2 columns to produce Column 610
+Column 611 is produced by
+	 Applying np.power to Column 60
+	 The exponent for power function is 3.134299092979892
+	 Applying np.exp to Column 248
+	 Finally, we add the 2 columns to produce Column 611
+Column 612 is produced by
+	 Applying np.exp2 to Column 218
+	 Applying np.exp to Column 309
+	 Finally, we add the 2 columns to produce Column 612
+Column 613 is produced by
+	 Applying np.power to Column 493
+	 The exponent for power function is 59.96892989684469
+	 Applying np.exp to Column 149
+	 Finally, we add the 2 columns to produce Column 613
+Column 614 is produced by
+	 Applying np.exp to Column 738
+	 Applying np.power to Column 703
+	 The exponent for power function is 8.772201860939502
+	 Finally, we add the 2 columns to produce Column 614
+Column 615 is produced by
+	 Applying np.exp2 to Column 648
+	 Applying np.exp to Column 122
+	 Finally, we add the 2 columns to produce Column 615
+Column 616 is produced by
+	 Applying np.exp2 to Column 281
+	 Applying np.exp to Column 681
+	 Finally, we add the 2 columns to produce Column 616
+Column 617 is produced by
+	 Applying np.exp to Column 685
+	 Applying np.power to Column 6
+	 The exponent for power function is 58.54684806826654
+	 Finally, we add the 2 columns to produce Column 617
+Column 618 is produced by
+	 Applying np.exp2 to Column 713
+	 Applying np.exp to Column 355
+	 Finally, we add the 2 columns to produce Column 618
+Column 619 is produced by
+	 Applying np.exp to Column 39
+	 Applying np.reciprocal to Column 64
+	 Finally, we add the 2 columns to produce Column 619
+Column 620 is produced by
+	 Applying np.power to Column 749
+	 The exponent for power function is 62.06191179754454
+	 Applying np.reciprocal to Column 508
+	 Finally, we add the 2 columns to produce Column 620
+Column 621 is produced by
+	 Applying np.exp2 to Column 381
+	 Applying np.reciprocal to Column 353
+	 Finally, we add the 2 columns to produce Column 621
+Column 622 is produced by
+	 Applying np.power to Column 592
+	 The exponent for power function is 15.804181047919602
+	 Applying np.reciprocal to Column 334
+	 Finally, we add the 2 columns to produce Column 622
+Column 623 is produced by
+	 Applying np.exp2 to Column 766
+	 Applying np.power to Column 502
+	 The exponent for power function is 2.436822305795416
+	 Finally, we add the 2 columns to produce Column 623
+Column 624 is produced by
+	 Applying np.power to Column 520
+	 The exponent for power function is 18.352366813663174
+	 Applying np.exp to Column 272
+	 Finally, we add the 2 columns to produce Column 624
+Column 625 is produced by
+	 Applying np.reciprocal to Column 7
+	 Applying np.exp2 to Column 646
+	 Finally, we add the 2 columns to produce Column 625
+Column 626 is produced by
+	 Applying np.reciprocal to Column 673
+	 Applying np.exp2 to Column 349
+	 Finally, we add the 2 columns to produce Column 626
+Column 627 is produced by
+	 Applying np.reciprocal to Column 256
+	 Applying np.exp2 to Column 460
+	 Finally, we add the 2 columns to produce Column 627
+Column 628 is produced by
+	 Applying np.power to Column 360
+	 The exponent for power function is 7.068099121077832
+	 Applying np.exp2 to Column 506
+	 Finally, we add the 2 columns to produce Column 628
+Column 629 is produced by
+	 Applying np.reciprocal to Column 755
+	 Applying np.power to Column 227
+	 The exponent for power function is 51.203726386436706
+	 Finally, we add the 2 columns to produce Column 629
+Column 630 is produced by
+	 Applying np.exp to Column 601
+	 Applying np.exp2 to Column 31
+	 Finally, we add the 2 columns to produce Column 630
+Column 631 is produced by
+	 Applying np.exp to Column 633
+	 Applying np.power to Column 668
+	 The exponent for power function is 4.717662229190509
+	 Finally, we add the 2 columns to produce Column 631
+Column 632 is produced by
+	 Applying np.power to Column 490
+	 The exponent for power function is 62.563023473639305
+	 Applying np.exp to Column 465
+	 Finally, we add the 2 columns to produce Column 632
+Column 633 is produced by
+	 Applying np.exp2 to Column 628
+	 Applying np.exp to Column 199
+	 Finally, we add the 2 columns to produce Column 633
+Column 634 is produced by
+	 Applying np.reciprocal to Column 51
+	 Applying np.exp to Column 115
+	 Finally, we add the 2 columns to produce Column 634
+Column 635 is produced by
+	 Applying np.exp2 to Column 323
+	 Applying np.power to Column 88
+	 The exponent for power function is 0.6022851372912452
+	 Finally, we add the 2 columns to produce Column 635
+Column 636 is produced by
+	 Applying np.reciprocal to Column 220
+	 Applying np.power to Column 114
+	 The exponent for power function is 13.441724963482512
+	 Finally, we add the 2 columns to produce Column 636
+Column 637 is produced by
+	 Applying np.power to Column 525
+	 The exponent for power function is 11.904503080926478
+	 Applying np.reciprocal to Column 177
+	 Finally, we add the 2 columns to produce Column 637
+Column 638 is produced by
+	 Applying np.exp to Column 190
+	 Applying np.exp2 to Column 248
+	 Finally, we add the 2 columns to produce Column 638
+Column 639 is produced by
+	 Applying np.power to Column 767
+	 The exponent for power function is 33.561788502796134
+	 Applying np.exp2 to Column 193
+	 Finally, we add the 2 columns to produce Column 639
+Column 640 is produced by
+	 Applying np.reciprocal to Column 144
+	 Applying np.power to Column 135
+	 The exponent for power function is 8.801077808923381
+	 Finally, we add the 2 columns to produce Column 640
+Column 641 is produced by
+	 Applying np.exp2 to Column 442
+	 Applying np.power to Column 718
+	 The exponent for power function is 1.4673875273570665
+	 Finally, we add the 2 columns to produce Column 641
+Column 642 is produced by
+	 Applying np.reciprocal to Column 287
+	 Applying np.exp2 to Column 596
+	 Finally, we add the 2 columns to produce Column 642
+Column 643 is produced by
+	 Applying np.exp to Column 98
+	 Applying np.exp2 to Column 670
+	 Finally, we add the 2 columns to produce Column 643
+Column 644 is produced by
+	 Applying np.exp2 to Column 265
+	 Applying np.reciprocal to Column 272
+	 Finally, we add the 2 columns to produce Column 644
+Column 645 is produced by
+	 Applying np.exp to Column 651
+	 Applying np.power to Column 589
+	 The exponent for power function is 25.694675946000988
+	 Finally, we add the 2 columns to produce Column 645
+Column 646 is produced by
+	 Applying np.exp to Column 392
+	 Applying np.exp2 to Column 701
+	 Finally, we add the 2 columns to produce Column 646
+Column 647 is produced by
+	 Applying np.power to Column 609
+	 The exponent for power function is 1.3653705284726831
+	 Applying np.exp2 to Column 780
+	 Finally, we add the 2 columns to produce Column 647
+Column 648 is produced by
+	 Applying np.reciprocal to Column 473
+	 Applying np.exp2 to Column 577
+	 Finally, we add the 2 columns to produce Column 648
+Column 649 is produced by
+	 Applying np.power to Column 88
+	 The exponent for power function is 81.28849674621169
+	 Applying np.exp to Column 156
+	 Finally, we add the 2 columns to produce Column 649
+Column 650 is produced by
+	 Applying np.exp to Column 31
+	 Applying np.power to Column 284
+	 The exponent for power function is 0.7950013197386578
+	 Finally, we add the 2 columns to produce Column 650
+Column 651 is produced by
+	 Applying np.reciprocal to Column 66
+	 Applying np.exp to Column 270
+	 Finally, we add the 2 columns to produce Column 651
+Column 652 is produced by
+	 Applying np.exp to Column 471
+	 Applying np.reciprocal to Column 158
+	 Finally, we add the 2 columns to produce Column 652
+Column 653 is produced by
+	 Applying np.reciprocal to Column 279
+	 Applying np.power to Column 563
+	 The exponent for power function is 0.08314230291834424
+	 Finally, we add the 2 columns to produce Column 653
+Column 654 is produced by
+	 Applying np.power to Column 571
+	 The exponent for power function is 10.70555352444247
+	 Applying np.exp2 to Column 314
+	 Finally, we add the 2 columns to produce Column 654
+Column 655 is produced by
+	 Applying np.reciprocal to Column 754
+	 Applying np.power to Column 779
+	 The exponent for power function is 59.62356292694548
+	 Finally, we add the 2 columns to produce Column 655
+Column 656 is produced by
+	 Applying np.power to Column 248
+	 The exponent for power function is 15.60377920298955
+	 Applying np.exp to Column 545
+	 Finally, we add the 2 columns to produce Column 656
+Column 657 is produced by
+	 Applying np.exp2 to Column 766
+	 Applying np.power to Column 447
+	 The exponent for power function is 26.21822038347324
+	 Finally, we add the 2 columns to produce Column 657
+Column 658 is produced by
+	 Applying np.reciprocal to Column 227
+	 Applying np.exp2 to Column 687
+	 Finally, we add the 2 columns to produce Column 658
+Column 659 is produced by
+	 Applying np.reciprocal to Column 435
+	 Applying np.exp2 to Column 378
+	 Finally, we add the 2 columns to produce Column 659
+Column 660 is produced by
+	 Applying np.power to Column 345
+	 The exponent for power function is 50.183711567857735
+	 Applying np.exp to Column 419
+	 Finally, we add the 2 columns to produce Column 660
+Column 661 is produced by
+	 Applying np.exp to Column 79
+	 Applying np.exp2 to Column 759
+	 Finally, we add the 2 columns to produce Column 661
+Column 662 is produced by
+	 Applying np.exp to Column 9
+	 Applying np.exp2 to Column 685
+	 Finally, we add the 2 columns to produce Column 662
+Column 663 is produced by
+	 Applying np.reciprocal to Column 121
+	 Applying np.exp2 to Column 187
+	 Finally, we add the 2 columns to produce Column 663
+Column 664 is produced by
+	 Applying np.exp2 to Column 156
+	 Applying np.exp to Column 72
+	 Finally, we add the 2 columns to produce Column 664
+Column 665 is produced by
+	 Applying np.power to Column 682
+	 The exponent for power function is 25.864079294293834
+	 Applying np.reciprocal to Column 634
+	 Finally, we add the 2 columns to produce Column 665
+Column 666 is produced by
+	 Applying np.exp2 to Column 147
+	 Applying np.exp to Column 118
+	 Finally, we add the 2 columns to produce Column 666
+Column 667 is produced by
+	 Applying np.reciprocal to Column 45
+	 Applying np.exp to Column 537
+	 Finally, we add the 2 columns to produce Column 667
+Column 668 is produced by
+	 Applying np.exp to Column 740
+	 Applying np.power to Column 339
+	 The exponent for power function is 43.24065210992966
+	 Finally, we add the 2 columns to produce Column 668
+Column 669 is produced by
+	 Applying np.power to Column 306
+	 The exponent for power function is 18.708552565700845
+	 Applying np.reciprocal to Column 234
+	 Finally, we add the 2 columns to produce Column 669
+Column 670 is produced by
+	 Applying np.power to Column 337
+	 The exponent for power function is 31.571736737184484
+	 Applying np.reciprocal to Column 459
+	 Finally, we add the 2 columns to produce Column 670
+Column 671 is produced by
+	 Applying np.exp2 to Column 774
+	 Applying np.exp to Column 75
+	 Finally, we add the 2 columns to produce Column 671
+Column 672 is produced by
+	 Applying np.exp2 to Column 140
+	 Applying np.exp to Column 408
+	 Finally, we add the 2 columns to produce Column 672
+Column 673 is produced by
+	 Applying np.power to Column 581
+	 The exponent for power function is 6.713800780643551
+	 Applying np.exp2 to Column 287
+	 Finally, we add the 2 columns to produce Column 673
+Column 674 is produced by
+	 Applying np.exp2 to Column 170
+	 Applying np.exp to Column 751
+	 Finally, we add the 2 columns to produce Column 674
+Column 675 is produced by
+	 Applying np.exp2 to Column 140
+	 Applying np.power to Column 501
+	 The exponent for power function is 23.852277080649316
+	 Finally, we add the 2 columns to produce Column 675
+Column 676 is produced by
+	 Applying np.exp to Column 348
+	 Applying np.reciprocal to Column 667
+	 Finally, we add the 2 columns to produce Column 676
+Column 677 is produced by
+	 Applying np.power to Column 398
+	 The exponent for power function is 20.173894004350007
+	 Applying np.exp2 to Column 638
+	 Finally, we add the 2 columns to produce Column 677
+Column 678 is produced by
+	 Applying np.power to Column 688
+	 The exponent for power function is 57.23125067849313
+	 Applying np.exp to Column 551
+	 Finally, we add the 2 columns to produce Column 678
+Column 679 is produced by
+	 Applying np.power to Column 627
+	 The exponent for power function is 5.855328053053237
+	 Applying np.reciprocal to Column 286
+	 Finally, we add the 2 columns to produce Column 679
+Column 680 is produced by
+	 Applying np.exp to Column 290
+	 Applying np.exp2 to Column 441
+	 Finally, we add the 2 columns to produce Column 680
+Column 681 is produced by
+	 Applying np.exp2 to Column 558
+	 Applying np.exp to Column 7
+	 Finally, we add the 2 columns to produce Column 681
+Column 682 is produced by
+	 Applying np.exp to Column 287
+	 Applying np.exp2 to Column 330
+	 Finally, we add the 2 columns to produce Column 682
+Column 683 is produced by
+	 Applying np.exp to Column 202
+	 Applying np.exp2 to Column 575
+	 Finally, we add the 2 columns to produce Column 683
+Column 684 is produced by
+	 Applying np.exp2 to Column 638
+	 Applying np.reciprocal to Column 547
+	 Finally, we add the 2 columns to produce Column 684
+Column 685 is produced by
+	 Applying np.reciprocal to Column 694
+	 Applying np.power to Column 556
+	 The exponent for power function is 16.74795341200442
+	 Finally, we add the 2 columns to produce Column 685
+Column 686 is produced by
+	 Applying np.reciprocal to Column 268
+	 Applying np.exp to Column 231
+	 Finally, we add the 2 columns to produce Column 686
+Column 687 is produced by
+	 Applying np.exp2 to Column 573
+	 Applying np.reciprocal to Column 498
+	 Finally, we add the 2 columns to produce Column 687
+Column 688 is produced by
+	 Applying np.exp to Column 89
+	 Applying np.exp2 to Column 635
+	 Finally, we add the 2 columns to produce Column 688
+Column 689 is produced by
+	 Applying np.power to Column 492
+	 The exponent for power function is 1.036238783339373
+	 Applying np.reciprocal to Column 780
+	 Finally, we add the 2 columns to produce Column 689
+Column 690 is produced by
+	 Applying np.exp2 to Column 204
+	 Applying np.exp to Column 503
+	 Finally, we add the 2 columns to produce Column 690
+Column 691 is produced by
+	 Applying np.reciprocal to Column 144
+	 Applying np.exp to Column 633
+	 Finally, we add the 2 columns to produce Column 691
+Column 692 is produced by
+	 Applying np.exp to Column 311
+	 Applying np.exp2 to Column 322
+	 Finally, we add the 2 columns to produce Column 692
+Column 693 is produced by
+	 Applying np.exp2 to Column 378
+	 Applying np.exp to Column 382
+	 Finally, we add the 2 columns to produce Column 693
+Column 694 is produced by
+	 Applying np.exp2 to Column 730
+	 Applying np.power to Column 522
+	 The exponent for power function is 10.370481467131409
+	 Finally, we add the 2 columns to produce Column 694
+Column 695 is produced by
+	 Applying np.power to Column 312
+	 The exponent for power function is 13.4683196751109
+	 Applying np.exp2 to Column 120
+	 Finally, we add the 2 columns to produce Column 695
+Column 696 is produced by
+	 Applying np.exp to Column 520
+	 Applying np.reciprocal to Column 734
+	 Finally, we add the 2 columns to produce Column 696
+Column 697 is produced by
+	 Applying np.exp2 to Column 175
+	 Applying np.power to Column 570
+	 The exponent for power function is 25.696934996403566
+	 Finally, we add the 2 columns to produce Column 697
+Column 698 is produced by
+	 Applying np.exp to Column 199
+	 Applying np.power to Column 211
+	 The exponent for power function is 31.291302144633505
+	 Finally, we add the 2 columns to produce Column 698
+Column 699 is produced by
+	 Applying np.exp to Column 93
+	 Applying np.power to Column 467
+	 The exponent for power function is 86.11334636682336
+	 Finally, we add the 2 columns to produce Column 699
+Column 700 is produced by
+	 Applying np.exp to Column 323
+	 Applying np.exp2 to Column 152
+	 Finally, we add the 2 columns to produce Column 700
+Column 701 is produced by
+	 Applying np.exp2 to Column 51
+	 Applying np.power to Column 623
+	 The exponent for power function is 51.98677972143093
+	 Finally, we add the 2 columns to produce Column 701
+Column 702 is produced by
+	 Applying np.exp2 to Column 339
+	 Applying np.power to Column 85
+	 The exponent for power function is 2.1229307683864906
+	 Finally, we add the 2 columns to produce Column 702
+Column 703 is produced by
+	 Applying np.power to Column 322
+	 The exponent for power function is 27.23610920432502
+	 Applying np.exp to Column 634
+	 Finally, we add the 2 columns to produce Column 703
+Column 704 is produced by
+	 Applying np.power to Column 188
+	 The exponent for power function is 19.750878344086757
+	 Applying np.exp to Column 12
+	 Finally, we add the 2 columns to produce Column 704
+Column 705 is produced by
+	 Applying np.power to Column 252
+	 The exponent for power function is 2.2390008198842297
+	 Applying np.reciprocal to Column 438
+	 Finally, we add the 2 columns to produce Column 705
+Column 706 is produced by
+	 Applying np.power to Column 438
+	 The exponent for power function is 11.870602608070671
+	 Applying np.exp2 to Column 657
+	 Finally, we add the 2 columns to produce Column 706
+Column 707 is produced by
+	 Applying np.power to Column 718
+	 The exponent for power function is 19.032277038294435
+	 Applying np.exp to Column 287
+	 Finally, we add the 2 columns to produce Column 707
+Column 708 is produced by
+	 Applying np.power to Column 299
+	 The exponent for power function is 10.372490226367074
+	 Applying np.exp to Column 696
+	 Finally, we add the 2 columns to produce Column 708
+Column 709 is produced by
+	 Applying np.exp to Column 15
+	 Applying np.power to Column 432
+	 The exponent for power function is 1.361812019975648
+	 Finally, we add the 2 columns to produce Column 709
+Column 710 is produced by
+	 Applying np.exp2 to Column 641
+	 Applying np.exp to Column 126
+	 Finally, we add the 2 columns to produce Column 710
+Column 711 is produced by
+	 Applying np.power to Column 41
+	 The exponent for power function is 62.46925080882957
+	 Applying np.exp2 to Column 154
+	 Finally, we add the 2 columns to produce Column 711
+Column 712 is produced by
+	 Applying np.power to Column 592
+	 The exponent for power function is 45.78200734035475
+	 Applying np.reciprocal to Column 102
+	 Finally, we add the 2 columns to produce Column 712
+Column 713 is produced by
+	 Applying np.power to Column 358
+	 The exponent for power function is 13.49874185052466
+	 Applying np.exp to Column 295
+	 Finally, we add the 2 columns to produce Column 713
+Column 714 is produced by
+	 Applying np.exp2 to Column 472
+	 Applying np.power to Column 4
+	 The exponent for power function is 23.767234008172412
+	 Finally, we add the 2 columns to produce Column 714
+Column 715 is produced by
+	 Applying np.power to Column 467
+	 The exponent for power function is 4.463643917997625
+	 Applying np.exp2 to Column 721
+	 Finally, we add the 2 columns to produce Column 715
+Column 716 is produced by
+	 Applying np.exp to Column 490
+	 Applying np.exp2 to Column 472
+	 Finally, we add the 2 columns to produce Column 716
+Column 717 is produced by
+	 Applying np.exp to Column 149
+	 Applying np.reciprocal to Column 574
+	 Finally, we add the 2 columns to produce Column 717
+Column 718 is produced by
+	 Applying np.reciprocal to Column 692
+	 Applying np.power to Column 533
+	 The exponent for power function is 11.223960575134821
+	 Finally, we add the 2 columns to produce Column 718
+Column 719 is produced by
+	 Applying np.exp to Column 19
+	 Applying np.exp2 to Column 390
+	 Finally, we add the 2 columns to produce Column 719
+Column 720 is produced by
+	 Applying np.exp to Column 57
+	 Applying np.exp2 to Column 239
+	 Finally, we add the 2 columns to produce Column 720
+Column 721 is produced by
+	 Applying np.reciprocal to Column 722
+	 Applying np.power to Column 589
+	 The exponent for power function is 3.9163057871005726
+	 Finally, we add the 2 columns to produce Column 721
+Column 722 is produced by
+	 Applying np.reciprocal to Column 150
+	 Applying np.exp to Column 202
+	 Finally, we add the 2 columns to produce Column 722
+Column 723 is produced by
+	 Applying np.exp to Column 537
+	 Applying np.reciprocal to Column 629
+	 Finally, we add the 2 columns to produce Column 723
+Column 724 is produced by
+	 Applying np.exp2 to Column 540
+	 Applying np.exp to Column 662
+	 Finally, we add the 2 columns to produce Column 724
+Column 725 is produced by
+	 Applying np.exp to Column 327
+	 Applying np.power to Column 379
+	 The exponent for power function is 60.49502918962407
+	 Finally, we add the 2 columns to produce Column 725
+Column 726 is produced by
+	 Applying np.exp2 to Column 65
+	 Applying np.exp to Column 362
+	 Finally, we add the 2 columns to produce Column 726
+Column 727 is produced by
+	 Applying np.exp to Column 154
+	 Applying np.reciprocal to Column 465
+	 Finally, we add the 2 columns to produce Column 727
+Column 728 is produced by
+	 Applying np.exp to Column 127
+	 Applying np.reciprocal to Column 74
+	 Finally, we add the 2 columns to produce Column 728
+Column 729 is produced by
+	 Applying np.exp to Column 111
+	 Applying np.reciprocal to Column 239
+	 Finally, we add the 2 columns to produce Column 729
+Column 730 is produced by
+	 Applying np.power to Column 367
+	 The exponent for power function is 33.8921227023762
+	 Applying np.exp2 to Column 380
+	 Finally, we add the 2 columns to produce Column 730
+Column 731 is produced by
+	 Applying np.power to Column 94
+	 The exponent for power function is 92.26901315838728
+	 Applying np.exp to Column 652
+	 Finally, we add the 2 columns to produce Column 731
+Column 732 is produced by
+	 Applying np.power to Column 53
+	 The exponent for power function is 71.22107667244327
+	 Applying np.exp2 to Column 49
+	 Finally, we add the 2 columns to produce Column 732
+Column 733 is produced by
+	 Applying np.reciprocal to Column 532
+	 Applying np.power to Column 728
+	 The exponent for power function is 23.419540339265243
+	 Finally, we add the 2 columns to produce Column 733
+Column 734 is produced by
+	 Applying np.exp2 to Column 198
+	 Applying np.reciprocal to Column 758
+	 Finally, we add the 2 columns to produce Column 734
+Column 735 is produced by
+	 Applying np.power to Column 228
+	 The exponent for power function is 24.470473467814898
+	 Applying np.exp to Column 219
+	 Finally, we add the 2 columns to produce Column 735
+Column 736 is produced by
+	 Applying np.reciprocal to Column 559
+	 Applying np.power to Column 76
+	 The exponent for power function is 62.20991885903444
+	 Finally, we add the 2 columns to produce Column 736
+Column 737 is produced by
+	 Applying np.exp to Column 238
+	 Applying np.exp2 to Column 411
+	 Finally, we add the 2 columns to produce Column 737
+Column 738 is produced by
+	 Applying np.power to Column 697
+	 The exponent for power function is 29.87347023751833
+	 Applying np.reciprocal to Column 687
+	 Finally, we add the 2 columns to produce Column 738
+Column 739 is produced by
+	 Applying np.power to Column 284
+	 The exponent for power function is 15.333888100732258
+	 Applying np.exp to Column 169
+	 Finally, we add the 2 columns to produce Column 739
+Column 740 is produced by
+	 Applying np.reciprocal to Column 429
+	 Applying np.power to Column 590
+	 The exponent for power function is 14.563829580241489
+	 Finally, we add the 2 columns to produce Column 740
+Column 741 is produced by
+	 Applying np.exp to Column 255
+	 Applying np.reciprocal to Column 283
+	 Finally, we add the 2 columns to produce Column 741
+Column 742 is produced by
+	 Applying np.exp to Column 623
+	 Applying np.power to Column 379
+	 The exponent for power function is 61.80381931261727
+	 Finally, we add the 2 columns to produce Column 742
+Column 743 is produced by
+	 Applying np.exp2 to Column 13
+	 Applying np.exp to Column 524
+	 Finally, we add the 2 columns to produce Column 743
+Column 744 is produced by
+	 Applying np.power to Column 403
+	 The exponent for power function is 0.22502976715816558
+	 Applying np.reciprocal to Column 596
+	 Finally, we add the 2 columns to produce Column 744
+Column 745 is produced by
+	 Applying np.power to Column 99
+	 The exponent for power function is 39.71489715454781
+	 Applying np.reciprocal to Column 2
+	 Finally, we add the 2 columns to produce Column 745
+Column 746 is produced by
+	 Applying np.reciprocal to Column 525
+	 Applying np.exp2 to Column 421
+	 Finally, we add the 2 columns to produce Column 746
+Column 747 is produced by
+	 Applying np.power to Column 559
+	 The exponent for power function is 48.973107630906185
+	 Applying np.exp to Column 535
+	 Finally, we add the 2 columns to produce Column 747
+Column 748 is produced by
+	 Applying np.exp to Column 765
+	 Applying np.power to Column 482
+	 The exponent for power function is 17.71467170239367
+	 Finally, we add the 2 columns to produce Column 748
+Column 749 is produced by
+	 Applying np.power to Column 576
+	 The exponent for power function is 13.602981171116447
+	 Applying np.exp to Column 419
+	 Finally, we add the 2 columns to produce Column 749
+Column 750 is produced by
+	 Applying np.reciprocal to Column 65
+	 Applying np.exp to Column 692
+	 Finally, we add the 2 columns to produce Column 750
+Column 751 is produced by
+	 Applying np.reciprocal to Column 374
+	 Applying np.exp2 to Column 443
+	 Finally, we add the 2 columns to produce Column 751
+Column 752 is produced by
+	 Applying np.exp to Column 394
+	 Applying np.reciprocal to Column 745
+	 Finally, we add the 2 columns to produce Column 752
+Column 753 is produced by
+	 Applying np.power to Column 536
+	 The exponent for power function is 12.367408786596258
+	 Applying np.exp2 to Column 317
+	 Finally, we add the 2 columns to produce Column 753
+Column 754 is produced by
+	 Applying np.reciprocal to Column 743
+	 Applying np.power to Column 53
+	 The exponent for power function is 5.815236878708256
+	 Finally, we add the 2 columns to produce Column 754
+Column 755 is produced by
+	 Applying np.exp2 to Column 132
+	 Applying np.power to Column 368
+	 The exponent for power function is 6.2144258394314384
+	 Finally, we add the 2 columns to produce Column 755
+Column 756 is produced by
+	 Applying np.exp2 to Column 606
+	 Applying np.reciprocal to Column 452
+	 Finally, we add the 2 columns to produce Column 756
+Column 757 is produced by
+	 Applying np.exp to Column 313
+	 Applying np.exp2 to Column 587
+	 Finally, we add the 2 columns to produce Column 757
+Column 758 is produced by
+	 Applying np.power to Column 430
+	 The exponent for power function is 46.180476651934036
+	 Applying np.exp2 to Column 460
+	 Finally, we add the 2 columns to produce Column 758
+Column 759 is produced by
+	 Applying np.reciprocal to Column 44
+	 Applying np.exp to Column 497
+	 Finally, we add the 2 columns to produce Column 759
+Column 760 is produced by
+	 Applying np.exp2 to Column 729
+	 Applying np.exp to Column 573
+	 Finally, we add the 2 columns to produce Column 760
+Column 761 is produced by
+	 Applying np.power to Column 538
+	 The exponent for power function is 27.32190339081397
+	 Applying np.exp2 to Column 49
+	 Finally, we add the 2 columns to produce Column 761
+Column 762 is produced by
+	 Applying np.reciprocal to Column 685
+	 Applying np.exp to Column 10
+	 Finally, we add the 2 columns to produce Column 762
+Column 763 is produced by
+	 Applying np.exp2 to Column 430
+	 Applying np.reciprocal to Column 222
+	 Finally, we add the 2 columns to produce Column 763
+Column 764 is produced by
+	 Applying np.exp2 to Column 699
+	 Applying np.exp to Column 176
+	 Finally, we add the 2 columns to produce Column 764
+Column 765 is produced by
+	 Applying np.power to Column 204
+	 The exponent for power function is 15.830525523378954
+	 Applying np.exp to Column 113
+	 Finally, we add the 2 columns to produce Column 765
+Column 766 is produced by
+	 Applying np.exp to Column 265
+	 Applying np.power to Column 565
+	 The exponent for power function is 88.19964629720084
+	 Finally, we add the 2 columns to produce Column 766
+Column 767 is produced by
+	 Applying np.reciprocal to Column 397
+	 Applying np.exp to Column 246
+	 Finally, we add the 2 columns to produce Column 767
+Column 768 is produced by
+	 Applying np.exp2 to Column 0
+	 Applying np.power to Column 571
+	 The exponent for power function is 13.680413532218944
+	 Finally, we add the 2 columns to produce Column 768
+Column 769 is produced by
+	 Applying np.exp2 to Column 600
+	 Applying np.power to Column 488
+	 The exponent for power function is 43.138472125950585
+	 Finally, we add the 2 columns to produce Column 769
+Column 770 is produced by
+	 Applying np.exp to Column 419
+	 Applying np.power to Column 676
+	 The exponent for power function is 60.522794977548884
+	 Finally, we add the 2 columns to produce Column 770
+Column 771 is produced by
+	 Applying np.power to Column 292
+	 The exponent for power function is 25.938751224402026
+	 Applying np.exp2 to Column 409
+	 Finally, we add the 2 columns to produce Column 771
+Column 772 is produced by
+	 Applying np.reciprocal to Column 728
+	 Applying np.exp2 to Column 729
+	 Finally, we add the 2 columns to produce Column 772
+Column 773 is produced by
+	 Applying np.exp to Column 639
+	 Applying np.reciprocal to Column 779
+	 Finally, we add the 2 columns to produce Column 773
+Column 774 is produced by
+	 Applying np.power to Column 316
+	 The exponent for power function is 37.07879527541939
+	 Applying np.reciprocal to Column 10
+	 Finally, we add the 2 columns to produce Column 774
+Column 775 is produced by
+	 Applying np.reciprocal to Column 733
+	 Applying np.exp to Column 529
+	 Finally, we add the 2 columns to produce Column 775
+Column 776 is produced by
+	 Applying np.reciprocal to Column 312
+	 Applying np.exp to Column 564
+	 Finally, we add the 2 columns to produce Column 776
+Column 777 is produced by
+	 Applying np.power to Column 543
+	 The exponent for power function is 22.23077101885352
+	 Applying np.reciprocal to Column 410
+	 Finally, we add the 2 columns to produce Column 777
+Column 778 is produced by
+	 Applying np.exp2 to Column 714
+	 Applying np.reciprocal to Column 783
+	 Finally, we add the 2 columns to produce Column 778
+Column 779 is produced by
+	 Applying np.exp2 to Column 193
+	 Applying np.reciprocal to Column 466
+	 Finally, we add the 2 columns to produce Column 779
+Column 780 is produced by
+	 Applying np.exp2 to Column 449
+	 Applying np.exp to Column 178
+	 Finally, we add the 2 columns to produce Column 780
+Column 781 is produced by
+	 Applying np.power to Column 667
+	 The exponent for power function is 26.228103231259066
+	 Applying np.exp to Column 254
+	 Finally, we add the 2 columns to produce Column 781
+Column 782 is produced by
+	 Applying np.power to Column 388
+	 The exponent for power function is 1.765607447266671
+	 Applying np.exp to Column 462
+	 Finally, we add the 2 columns to produce Column 782
+Column 783 is produced by
+	 Applying np.exp to Column 42
+	 Applying np.power to Column 565
+	 The exponent for power function is 33.969081880247046
+	 Finally, we add the 2 columns to produce Column 783
